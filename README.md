@@ -2,7 +2,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=emilyseville7cfg&color=c55245)
 
-> No programming language is perfect. There is not even a single best language; there are only languages well suited or perhaps poorly suited for particular purposes. Herbert Mayer (c)
+Contributor to [Fish shell](https://github.com/fish-shell/fish-shell/pulls/EmilySeville7cfg)/[Tl;Dr pages](https://github.com/tldr-pages/tldr/pulls/EmilySeville7cfg)/[Devhints](https://github.com/rstacruz/cheatsheets/pulls/EmilySeville7cfg) projects.
+
+> We can make our world better. (c)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilySeville7cfg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
