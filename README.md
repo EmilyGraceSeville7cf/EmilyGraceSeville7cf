@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=emilyseville7cfg&color=c55245)
 
-Contributor to [Fish shell](https://github.com/fish-shell/fish-shell/pulls/EmilySeville7cfg)/[Tl;Dr pages](https://github.com/tldr-pages/tldr/pulls/EmilySeville7cfg)/[Devhints](https://github.com/rstacruz/cheatsheets/pulls/EmilySeville7cfg) projects.
+Contributor to [Fish shell](https://github.com/fish-shell/fish-shell/pulls/EmilySeville7cfg)/[Tl;Dr pages](https://github.com/tldr-pages/tldr/pulls/EmilySeville7cfg)/[Devhints](https://github.com/rstacruz/cheatsheets/pulls/EmilySeville7cfg) and other projects.
 
 > We can make our world better. (c)
 
