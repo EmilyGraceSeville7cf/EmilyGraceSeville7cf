@@ -2,6 +2,6 @@
 
 My personal site contains only the following things:
 
-- [my resume](https://emilyseville7cfg.github.io/posts/skills/)
+- [my resume](https://emilyseville7cfg.github.io/about/)
 - plans related to my personal life
 - my faviorite game screenshots and videos
