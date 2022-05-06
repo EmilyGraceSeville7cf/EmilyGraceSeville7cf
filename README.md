@@ -10,4 +10,4 @@ My personal site contains only the following things:
 
 ![about](https://user-images.githubusercontent.com/42812113/153562937-6851fac1-5e37-44e2-bbc8-9945b402dd2c.jpg)
 
-> 🔥 Site is down. Please wait until I fix it.
+> ⚙️ Site is under heavy development.
