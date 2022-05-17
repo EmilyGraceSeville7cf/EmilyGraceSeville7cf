@@ -5,7 +5,7 @@
 My name is `Emily Grace Seville`. I am a native russian speaker, open source contributor and I keen on administrating, scripting, creating sites and presentations. It’s my life. I like to automate routine tasks and not to do them manually. Today I have the following skills:
 
 - Administrating and scripting:
-  - Languages: Bash, Zsh, Python, Jq, Sed, Awk
+  - Languages: Bash, Zsh, Python, Emacs Lisp, Jq, Sed, Awk
   - Editors: Nano, Emacs
   - VCS tools: Git, GitHub
 - Creating sites and presentations:
