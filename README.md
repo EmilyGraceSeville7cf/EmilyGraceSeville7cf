@@ -11,6 +11,6 @@ My name is Emily Grace Seville. I am a native russian speaker, open source contr
 - Everything else:
   - Editors: Krita, Google Slides
 
-[Presentation about me](https://docs.google.com/presentation/d/1oStx2_Lg3PEfhlY1S8dQgkB1sEGQkCcGJ760terG3a8/edit?usp=sharing)
+[Presentation about me](https://docs.google.com/presentation/d/1oStx2_Lg3PEfhlY1S8dQgkB1sEGQkCcGJ760terG3a8/edit?usp=sharing) [Contribution statistics](https://www.githubtrends.io/wrapped/EmilySeville7cfg)
 
 ![image](https://user-images.githubusercontent.com/42812113/168748375-4ea7f226-6986-4747-9b87-fcbbe944957c.png)
