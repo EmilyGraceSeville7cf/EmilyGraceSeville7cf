@@ -2,16 +2,14 @@
 
 ## Skills
 
-My name is `Emily Grace Seville`. I am a native russian speaker, open source contributor and I keen on administrating, scripting, creating sites and presentations. It’s my life. I like to automate routine tasks and not to do them manually. Today I have the following skills:
+My name is Emily Grace Seville. I am a native russian speaker, open source contributor and I am keen on administrating, scripting, creating sites and presentations. It’s my life. I like to automate routine tasks and not to do them manually. Currently I have the following skills (just used tools are mentioned):
 
 - Administrating and scripting:
   - Languages: Bash, Zsh, Python, Emacs Lisp, Jq, Sed, Awk
-  - Editors: Nano, Emacs
+  - Editors: Emacs, Sublime Text
   - VCS tools: Git, GitHub
-- Creating sites and presentations:
-  - Drawing: Krita
-  - Sites: Hugo
-  - Presentations: Google Slides, Microsoft PowerPoint, LibreOffice Impress
+- Everything else:
+  - Editors: Krita, Google Slides
 
 [Presentation about me](https://docs.google.com/presentation/d/1oStx2_Lg3PEfhlY1S8dQgkB1sEGQkCcGJ760terG3a8/edit?usp=sharing)
 
