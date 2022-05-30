@@ -13,4 +13,4 @@ My name is `Emily Grace Seville`. I am a native russian speaker, open source con
   :editors ("Krita" "Google Slides"))
 ```
 
-[![presentation](https://img.shields.io/badge/view-presentation%20%22About%20me%22-%237E28CD)](https://docs.google.com/presentation/d/1oStx2_Lg3PEfhlY1S8dQgkB1sEGQkCcGJ760terG3a8/edit?usp=sharing)
+[![presentation](https://img.shields.io/badge/About%20me-purple?logo=slides&logoColor=white)](https://docs.google.com/presentation/d/1oStx2_Lg3PEfhlY1S8dQgkB1sEGQkCcGJ760terG3a8/edit?usp=sharing) [![reddit](https://img.shields.io/badge/Reddit-black?color=FF4500&logo=reddit&logoColor=white)](https://www.reddit.com/user/EmilySeville7cfg)
