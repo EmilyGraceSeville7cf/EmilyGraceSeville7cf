@@ -9,7 +9,6 @@ My name is `Emily Grace Seville`. I am a native russian speaker, open source con
   :vcs-tools ("Git" "GitHub"))
 (everything-else :used 'rarely
   :languages ("C#" "PascalABC.NET")
-  :site-generators ("Hugo")
   :editors ("Krita" "Google Slides"))
 ```
 
