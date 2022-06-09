@@ -9,7 +9,7 @@ My name is `Emily Grace Seville`. I am a native russian speaker, open source con
   :vcs-tools ("Git" "GitHub"))
 (everything-else :used 'rarely
   :languages ("C#" "PascalABC.NET")
-  :editors ("Krita" "Google Slides"))
+  :editors ("Krita" "Google Docs Editors" "LibreOffice"))
 ```
 
 [![presentation](https://img.shields.io/badge/Presentation-purple?logo=slides&logoColor=white)](https://docs.google.com/presentation/d/1oStx2_Lg3PEfhlY1S8dQgkB1sEGQkCcGJ760terG3a8/edit?usp=sharing) 
