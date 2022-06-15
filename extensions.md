@@ -14,11 +14,14 @@
 
 - themes:
   - [Visual Studio Code Plus Scheme](https://github.com/vbasky/sublime-vscode-plus)
+- markdown:
+  - [SublimeLinter-contrib-markdownlint](https://github.com/jonlabelle/SublimeLinter-contrib-markdownlint)
 - configs:
   - [LSP-dockerfile](https://github.com/sublimelsp/LSP-dockerfile)
   - [LSP-yaml](https://github.com/sublimelsp/LSP-yaml)
   - [LSP-json](https://github.com/sublimelsp/LSP-json)
   - [LSP-lemminx](https://github.com/sublimelsp/LSP-lemminx)
+  - [SublimeLinter-contrib-yamllint](https://packagecontrol.io/packages/SublimeLinter-contrib-yamllint)
   - [Pretty YAML](https://github.com/aukaost/SublimePrettyYAML)
   - [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson)
   - [SublimeLinter-json](https://github.com/SublimeLinter/SublimeLinter-json)
