@@ -5,9 +5,10 @@ My name is `Emily Grace Seville`. I am a native russian speaker, open source con
 ```lisp
 (administrating-and-scripting :used 'every-day
   :languages ("Bash" "Zsh" "Python" "Emacs Lisp" "Jq" "Sed" "Awk")
-  :editors ("Emacs" "Sublime Text")
+  :editors ("Emacs")
   :vcs-tools ("Git" "GitHub"))
 (everything-else :used 'rarely
+  :editors ("Visual Studio Code")
   :languages ("C#" "PascalABC.NET")
   :editors ("Krita" "Google Docs Editors" "LibreOffice"))
 ```
