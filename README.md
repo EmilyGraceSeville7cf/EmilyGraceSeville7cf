@@ -8,8 +8,7 @@ My name is `Emily Grace Seville`. I am a native russian speaker, open source con
   :editors ("Emacs")
   :vcs-tools ("Git" "GitHub"))
 (everything-else :used 'rarely
-  :editors ("Visual Studio Code")
-  :languages ("C#" "PascalABC.NET")
+  :languages ("C#" "PascalABC.NET" "Free Pascal")
   :editors ("Krita" "Google Docs Editors" "LibreOffice"))
 ```
 
