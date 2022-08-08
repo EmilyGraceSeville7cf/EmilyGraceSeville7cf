@@ -1,5 +1,7 @@
 # Visual Studio Code
 
+> ⚠️ This list is not updated.
+
 - editor:
   - [Awesome Emacs Keymap](https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx)
 - configs:
@@ -13,6 +15,8 @@
   - [shellman](https://marketplace.visualstudio.com/items?itemName=Remisa.shellman)
 
 # Sublime Text
+
+> ⚠️ This list is not updated.
 
 - themes:
   - [Visual Studio Code Plus Scheme](https://github.com/vbasky/sublime-vscode-plus)
@@ -35,3 +39,30 @@
 - python scripts:
   - [LSP-pyright](https://github.com/sublimelsp/LSP-pyright)
   - [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
+
+# Emacs
+
+- themes:
+  - [soft-stone-theme](https://melpa.org/#/soft-stone-theme)
+- linters
+  - [flycheck](https://melpa.org/#/flycheck)
+    - json: [json-mode](https://melpa.org/#/json-mode) with [jq](https://manned.org/jq)
+    - yaml: [yaml-mode](https://melpa.org/#/yaml-mode) with [yamllint](https://manned.org/yamllint)
+    - awk: [awk](https://manned.org/awk)
+    - markdown: [markdown-mode](https://melpa.org/#/markdown-mode) with [markdownlint](https://github.com/igorshubovych/markdownlint-cli)
+- language servers:
+  - [lsp](https://melpa.org/#/lsp-mode):
+    - bash: [bash-ls](https://emacs-lsp.github.io/lsp-mode/page/lsp-bash/)
+    - python: [lsp-pyright](https://emacs-lsp.github.io/lsp-pyright/)
+    - csharp: [csharp-ls](https://emacs-lsp.github.io/lsp-mode/page/lsp-csharp-ls/)
+- formaters:
+  - [format-all](https://melpa.org/#/format-all):
+    - json: [prettier](https://prettier.io/)
+    - yaml: [prettier](https://prettier.io/)
+    - awk: [gawk](https://manned.org/gawk)
+    - bash: [shfmt](https://github.com/mvdan/sh)
+    - python: [black](https://github.com/psf/black)
+    - csharp: [clang-format](https://github.com/psf/black)
+- other:
+  - [company](https://melpa.org/#/company)
+
