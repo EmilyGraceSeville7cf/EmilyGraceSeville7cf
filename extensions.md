@@ -1,45 +1,3 @@
-# Visual Studio Code
-
-> ⚠️ This list is not updated.
-
-- editor:
-  - [Awesome Emacs Keymap](https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx)
-- configs:
-  - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-  - [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions)
-- shell scripts:
-  - [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode)
-  - [Bats](https://marketplace.visualstudio.com/items?itemName=jetmartin.bats)
-  - [shell-format](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format)
-  - [Bash Debug](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format)
-  - [shellman](https://marketplace.visualstudio.com/items?itemName=Remisa.shellman)
-
-# Sublime Text
-
-> ⚠️ This list is not updated.
-
-- themes:
-  - [Visual Studio Code Plus Scheme](https://github.com/vbasky/sublime-vscode-plus)
-- markdown:
-  - [SublimeLinter-contrib-markdownlint](https://github.com/jonlabelle/SublimeLinter-contrib-markdownlint)
-- configs:
-  - [LSP-dockerfile](https://github.com/sublimelsp/LSP-dockerfile)
-  - [LSP-yaml](https://github.com/sublimelsp/LSP-yaml)
-  - [LSP-json](https://github.com/sublimelsp/LSP-json)
-  - [LSP-lemminx](https://github.com/sublimelsp/LSP-lemminx)
-  - [SublimeLinter-contrib-yamllint](https://packagecontrol.io/packages/SublimeLinter-contrib-yamllint)
-  - [Pretty YAML](https://github.com/aukaost/SublimePrettyYAML)
-  - [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson)
-  - [SublimeLinter-json](https://github.com/SublimeLinter/SublimeLinter-json)
-- shell scripts:
-  - [LSP-bash](https://github.com/sublimelsp/LSP-bash)
-  - [Pretty Shell](https://github.com/aerobounce/Sublime-Pretty-Shell)
-  - [AWK](https://github.com/JohnNilsson/awk-sublime)
-  - [JQ Syntax](https://github.com/zogwarg/SublimeJQ)
-- python scripts:
-  - [LSP-pyright](https://github.com/sublimelsp/LSP-pyright)
-  - [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
-
 # Emacs
 
 - themes:
@@ -66,3 +24,48 @@
 - other:
   - [company](https://melpa.org/#/company)
 
+![image](https://user-images.githubusercontent.com/42812113/183316476-549f6dc4-b150-4aca-90ac-adeb8070252c.png)
+
+# Visual Studio Code
+
+> ⚠️ This list is not updated.
+
+- editor:
+  - [Awesome Emacs Keymap](https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx)
+- configs:
+  - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+  - [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions)
+- shell scripts:
+  - [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode)
+  - [Bats](https://marketplace.visualstudio.com/items?itemName=jetmartin.bats)
+  - [shell-format](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format)
+  - [Bash Debug](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format)
+  - [shellman](https://marketplace.visualstudio.com/items?itemName=Remisa.shellman)
+
+![image](https://user-images.githubusercontent.com/42812113/183316514-a9979ea9-aed8-4bd4-8698-7c53dd7fc6b6.png)
+
+# Sublime Text
+
+> ⚠️ This list is not updated.
+
+- themes:
+  - [Visual Studio Code Plus Scheme](https://github.com/vbasky/sublime-vscode-plus)
+- markdown:
+  - [SublimeLinter-contrib-markdownlint](https://github.com/jonlabelle/SublimeLinter-contrib-markdownlint)
+- configs:
+  - [LSP-dockerfile](https://github.com/sublimelsp/LSP-dockerfile)
+  - [LSP-yaml](https://github.com/sublimelsp/LSP-yaml)
+  - [LSP-json](https://github.com/sublimelsp/LSP-json)
+  - [LSP-lemminx](https://github.com/sublimelsp/LSP-lemminx)
+  - [SublimeLinter-contrib-yamllint](https://packagecontrol.io/packages/SublimeLinter-contrib-yamllint)
+  - [Pretty YAML](https://github.com/aukaost/SublimePrettyYAML)
+  - [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson)
+  - [SublimeLinter-json](https://github.com/SublimeLinter/SublimeLinter-json)
+- shell scripts:
+  - [LSP-bash](https://github.com/sublimelsp/LSP-bash)
+  - [Pretty Shell](https://github.com/aerobounce/Sublime-Pretty-Shell)
+  - [AWK](https://github.com/JohnNilsson/awk-sublime)
+  - [JQ Syntax](https://github.com/zogwarg/SublimeJQ)
+- python scripts:
+  - [LSP-pyright](https://github.com/sublimelsp/LSP-pyright)
+  - [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
