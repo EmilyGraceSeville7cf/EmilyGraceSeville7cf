@@ -1,5 +1,7 @@
 # Emacs
 
+- plugin managers:
+  - builtin
 - themes:
   - [soft-stone-theme](https://melpa.org/#/soft-stone-theme)
 - linters
@@ -28,6 +30,8 @@
 
 # Vim
 
+- plugin managers:
+  - [vim-plug](https://github.com/junegunn/vim-plug)
 - linters
   - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck)
 - language servers:
