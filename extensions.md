@@ -26,6 +26,15 @@
 
 ![image](https://user-images.githubusercontent.com/42812113/183316476-549f6dc4-b150-4aca-90ac-adeb8070252c.png)
 
+# Vim
+
+- linters
+  - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck)
+- language servers:
+  - [jedi-vim](https://github.com/davidhalter/jedi-vim)
+
+![image](https://user-images.githubusercontent.com/42812113/184511850-c9d94e7e-5271-4943-9394-85be5218c804.png)
+
 # Visual Studio Code
 
 > ⚠️ This list is not updated.
