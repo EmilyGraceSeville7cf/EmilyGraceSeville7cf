@@ -14,6 +14,7 @@
   - [lsp](https://melpa.org/#/lsp-mode):
     - bash: [bash-ls](https://emacs-lsp.github.io/lsp-mode/page/lsp-bash/)
     - python: [lsp-pyright](https://emacs-lsp.github.io/lsp-pyright/)
+    - java: [lsp-java](https://emacs-lsp.github.io/lsp-java/)
     - csharp: [csharp-ls](https://emacs-lsp.github.io/lsp-mode/page/lsp-csharp-ls/)
 - formaters:
   - [format-all](https://melpa.org/#/format-all):
@@ -22,7 +23,8 @@
     - awk: [gawk](https://manned.org/gawk)
     - bash: [shfmt](https://github.com/mvdan/sh)
     - python: [black](https://github.com/psf/black)
-    - csharp: [clang-format](https://github.com/psf/black)
+    - java: [clang-format](https://clang.llvm.org/docs/ClangFormat.html)
+    - csharp: [clang-format](https://clang.llvm.org/docs/ClangFormat.html)
 - other:
   - [company](https://melpa.org/#/company)
 
