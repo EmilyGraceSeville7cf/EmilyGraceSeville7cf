@@ -4,7 +4,7 @@
   - builtin
 - themes:
   - [soft-stone-theme](https://melpa.org/#/soft-stone-theme)
-- linters
+- linters:
   - [flycheck](https://melpa.org/#/flycheck)
     - json: [json-mode](https://melpa.org/#/json-mode) with [jq](https://manned.org/jq)
     - yaml: [yaml-mode](https://melpa.org/#/yaml-mode) with [yamllint](https://manned.org/yamllint)
@@ -33,9 +33,12 @@
 - plugin managers:
   - [vim-plug](https://github.com/junegunn/vim-plug)
 - linters
+  - [nvie/vim-flake8](https://github.com/nvie/vim-flake8)
   - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck)
 - language servers:
   - [jedi-vim](https://github.com/davidhalter/jedi-vim)
+- other:
+  - [alx741/vinfo](https://github.com/alx741/vinfo)
 
 ![image](https://user-images.githubusercontent.com/42812113/184511850-c9d94e7e-5271-4943-9394-85be5218c804.png)
 
