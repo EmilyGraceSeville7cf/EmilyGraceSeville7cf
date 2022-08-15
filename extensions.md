@@ -34,6 +34,8 @@
 
 - plugin managers:
   - [vim-plug](https://github.com/junegunn/vim-plug)
+- themes:
+  - [gruvbox](https://github.com/morhetz/gruvbox)
 - linters
   - [vim-flake8](https://github.com/nvie/vim-flake8)
   - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck)
