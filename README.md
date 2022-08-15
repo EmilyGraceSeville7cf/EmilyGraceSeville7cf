@@ -3,11 +3,11 @@
 My name is `Emily Grace Seville`. I am a native russian speaker, open source contributor and I am keen on administrating, scripting, creating sites and presentations. It’s my life. I like to automate routine tasks and not to do them manually. Currently I have the following skills (just used tools are mentioned):
 
 - used often:
-  - languages: `Bash`, `Zsh`, `Python`, `Emacs, Lisp`, `Jq`, `Sed`, `Awk`
+  - languages: `Bash`, `Zsh`, `Python`, `Emacs Lisp`, `Jq`, `Sed`, `Awk`
   - editors: `Emacs`
   - vcs-tools `Git`, `GitHub`
 - used rarely:
-  - languages: `C#`, `PascalABC.NET`, `Free Pascal`
+  - languages: `VimScript`, `C#`, `PascalABC.NET`, `Free Pascal`
   - editors: `Vim`, `Krita`, `Google Docs Editors`, `LibreOffice`
 
 ![image](https://user-images.githubusercontent.com/42812113/184562159-6634feb2-dc21-4ff9-a890-49256c484b96.png)
