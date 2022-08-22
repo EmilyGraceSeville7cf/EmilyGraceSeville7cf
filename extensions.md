@@ -1,4 +1,4 @@
-# Emacs
+# [Emacs](https://github.com/EmilySeville7cfg/personal-editor-configs/blob/main/Emacs/.emacs)
 
 - plugin managers:
   - builtin
@@ -31,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/42812113/183316476-549f6dc4-b150-4aca-90ac-adeb8070252c.png)
 
-# Vim
+# [Vim](https://github.com/EmilySeville7cfg/personal-editor-configs/blob/main/Vim/.vimrc)
 
 - plugin managers:
   - [vim-plug](https://github.com/junegunn/vim-plug)
@@ -69,7 +69,7 @@
 
 ![image](https://user-images.githubusercontent.com/42812113/183316514-a9979ea9-aed8-4bd4-8698-7c53dd7fc6b6.png)
 
-# Sublime Text
+# [Sublime Text](https://github.com/EmilySeville7cfg/personal-editor-configs/tree/main/Sublime%20Text%203)
 
 > ⚠️ This list is not updated.
 
