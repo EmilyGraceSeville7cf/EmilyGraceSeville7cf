@@ -16,6 +16,7 @@
     - python: [lsp-pyright](https://emacs-lsp.github.io/lsp-pyright/)
     - java: [lsp-java](https://emacs-lsp.github.io/lsp-java/)
     - csharp: [csharp-ls](https://emacs-lsp.github.io/lsp-mode/page/lsp-csharp-ls/)
+    - с++: [clangd](https://emacs-lsp.github.io/lsp-mode/page/lsp-clangd/)
 - formaters:
   - [format-all](https://melpa.org/#/format-all):
     - json: [prettier](https://prettier.io/)
