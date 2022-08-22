@@ -42,6 +42,10 @@
   - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck)
 - language servers:
   - [jedi-vim](https://github.com/davidhalter/jedi-vim)
+- formatters:
+  - [vim-autoformat](https://github.com/vim-autoformat/vim-autoformat):
+    - bash: [shfmt](https://github.com/mvdan/sh)
+    - python: [black](https://github.com/psf/black)
 - other:
   - [vinfo](https://github.com/alx741/vinfo)
 
