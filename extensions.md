@@ -36,7 +36,7 @@
 - plugin managers:
   - [vim-plug](https://github.com/junegunn/vim-plug)
 - themes:
-  - [gruvbox](https://github.com/morhetz/gruvbox)
+  - [vim-github-colorscheme](https://github.com/endel/vim-github-colorscheme)
 - linters
   - [vim-flake8](https://github.com/nvie/vim-flake8)
   - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck)
@@ -49,7 +49,7 @@
 - other:
   - [vinfo](https://github.com/alx741/vinfo)
 
-![image](https://user-images.githubusercontent.com/42812113/184511850-c9d94e7e-5271-4943-9394-85be5218c804.png)
+![image](https://user-images.githubusercontent.com/42812113/185938905-41f14091-839e-4e95-9cd6-af9073ed38af.png)
 
 # Visual Studio Code
 
