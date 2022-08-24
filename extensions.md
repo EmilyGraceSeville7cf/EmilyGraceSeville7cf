@@ -3,7 +3,7 @@
 - plugin managers:
   - builtin
 - themes:
-  - [soft-stone-theme](https://melpa.org/#/soft-stone-theme)
+  - [spacemacs-theme](https://github.com/nashamri/spacemacs-theme)
 - linters:
   - [flycheck](https://melpa.org/#/flycheck)
     - json: [json-mode](https://melpa.org/#/json-mode) with [jq](https://manned.org/jq)
@@ -29,7 +29,7 @@
 - other:
   - [company](https://melpa.org/#/company)
 
-![image](https://user-images.githubusercontent.com/42812113/183316476-549f6dc4-b150-4aca-90ac-adeb8070252c.png)
+![image](https://user-images.githubusercontent.com/42812113/186402143-72798d5b-2635-4a18-aa0a-17eef789dc9e.png)
 
 # [Vim](https://github.com/EmilySeville7cfg/personal-editor-configs/blob/main/Vim/.vimrc)
 
