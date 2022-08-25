@@ -22,6 +22,7 @@
     - с++: [clangd](https://emacs-lsp.github.io/lsp-mode/page/lsp-clangd/)
 - formaters:
   - [format-all](https://melpa.org/#/format-all):
+    - xml: [tidy](http://www.html-tidy.org/)
     - json: [prettier](https://prettier.io/)
     - yaml: [prettier](https://prettier.io/)
     - awk: [gawk](https://manned.org/gawk)
