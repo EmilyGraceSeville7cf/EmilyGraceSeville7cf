@@ -12,7 +12,7 @@
     - markdown: [markdown-mode](https://melpa.org/#/markdown-mode) with [markdownlint](https://github.com/igorshubovych/markdownlint-cli)
 - language servers:
   - [lsp](https://melpa.org/#/lsp-mode):
-    - cmake: [cmake-language-server](https://github.com/regen100/cmake-language-server)
+    - cmake: [cmake-mode](https://melpa.org/#/cmake-mode) with [cmake-language-server](https://github.com/regen100/cmake-language-server)
     - xml: [xmlls](https://emacs-lsp.github.io/lsp-mode/page/lsp-xml/)
     - yaml: [json-ls](https://emacs-lsp.github.io/lsp-mode/page/lsp-json/)
     - json: [yamlls](https://emacs-lsp.github.io/lsp-mode/page/lsp-yaml/)
