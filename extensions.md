@@ -12,6 +12,9 @@
     - markdown: [markdown-mode](https://melpa.org/#/markdown-mode) with [markdownlint](https://github.com/igorshubovych/markdownlint-cli)
 - language servers:
   - [lsp](https://melpa.org/#/lsp-mode):
+    - xml: [xmlls](https://emacs-lsp.github.io/lsp-mode/page/lsp-xml/)
+    - yaml: [json-ls](https://emacs-lsp.github.io/lsp-mode/page/lsp-json/)
+    - json: [yamlls](https://emacs-lsp.github.io/lsp-mode/page/lsp-yaml/)
     - bash: [bash-ls](https://emacs-lsp.github.io/lsp-mode/page/lsp-bash/)
     - python: [lsp-pyright](https://emacs-lsp.github.io/lsp-pyright/)
     - java: [lsp-java](https://emacs-lsp.github.io/lsp-java/)
