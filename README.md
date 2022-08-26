@@ -7,7 +7,7 @@ My name is `Emily Grace Seville`. I am a native russian speaker, open source con
   - editors: `Emacs`
   - vcs-tools `Git`, `GitHub`
 - used rarely:
-  - languages: `C#`, `Java`, `C++`, `PascalABC.NET`, `Free Pascal`, `Scratch`
+  - languages: `C#`, `Java`, `C++`, `Free Pascal`, `Scratch`
   - editors: `Vim`, `Krita`, `Google Docs Editors`, `LibreOffice`
 
 ![image](https://user-images.githubusercontent.com/42812113/184562159-6634feb2-dc21-4ff9-a890-49256c484b96.png)
