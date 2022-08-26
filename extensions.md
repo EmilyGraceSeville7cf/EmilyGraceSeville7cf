@@ -100,3 +100,10 @@
 - python scripts:
   - [LSP-pyright](https://github.com/sublimelsp/LSP-pyright)
   - [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
+
+# Firefox
+
+- [AdGuard AdBlocker](https://addons.mozilla.org/en-CA/firefox/addon/adguard-adblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [I don't care about cookies](https://addons.mozilla.org/en-CA/firefox/addon/i-dont-care-about-cookies/)
+- [Color by Fardos - Color Picker](https://addons.mozilla.org/en-CA/firefox/addon/color-by-fardos-color-picker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
