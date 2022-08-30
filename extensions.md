@@ -59,7 +59,7 @@
 
 # Visual Studio Code
 
-> ⚠️ This list is not updated.
+> :x: This list is not updated.
 
 - editor:
   - [Awesome Emacs Keymap](https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx)
@@ -77,7 +77,7 @@
 
 # [Sublime Text](https://github.com/EmilySeville7cfg/personal-editor-configs/tree/main/Sublime%20Text%203)
 
-> ⚠️ This list is not updated.
+> :x: This list is not updated.
 
 - themes:
   - [Visual Studio Code Plus Scheme](https://github.com/vbasky/sublime-vscode-plus)
@@ -108,6 +108,8 @@
 - [Color Picker](https://microsoftedge.microsoft.com/addons/detail/color-picker/hgfblglajhgcmkaafjcpgkndobacjnbf)
 
 # Firefox
+
+> :x: This list is not updated.
 
 - [AdGuard AdBlocker](https://addons.mozilla.org/en-CA/firefox/addon/adguard-adblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 - [I don't care about cookies](https://addons.mozilla.org/en-CA/firefox/addon/i-dont-care-about-cookies/)
