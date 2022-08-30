@@ -101,6 +101,12 @@
   - [LSP-pyright](https://github.com/sublimelsp/LSP-pyright)
   - [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
 
+# Edge
+
+- [AdGuard AdBlocker](https://microsoftedge.microsoft.com/addons/detail/adguard-adblocker/pdffkfellgipmhklpdmokmckkkfcopbh)
+- [I don't care about cookies](https://microsoftedge.microsoft.com/addons/detail/i-dont-care-about-cookie/oholpbloipjbbhlhohaebmieiiieioal)
+- [Color Picker](https://microsoftedge.microsoft.com/addons/detail/color-picker/hgfblglajhgcmkaafjcpgkndobacjnbf)
+
 # Firefox
 
 - [AdGuard AdBlocker](https://addons.mozilla.org/en-CA/firefox/addon/adguard-adblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
