@@ -3,7 +3,7 @@
 My name is `Emily Grace Seville`. I am a native russian speaker, open source contributor and I am
 keen on administrating, scripting, creating sites and presentations. It’s my life.
 I like to automate routine tasks and not to do them manually. Currently I have the following skills
-(just the most important tools are mentioned):
+(just the most interesting tools are mentioned):
 
 - languages: `Bash`, `Python`, `Java`, `Emacs Lisp`
 - editors: `Emacs`
