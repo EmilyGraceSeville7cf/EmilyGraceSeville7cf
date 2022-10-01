@@ -1,4 +1,27 @@
+
+# [Vim](https://github.com/EmilySeville7cfg/personal-editor-configs/blob/main/Vim/.vimrc)
+
+- plugin managers:
+  - [vim-plug](https://github.com/junegunn/vim-plug)
+- themes:
+  - [vim-github-colorscheme](https://github.com/endel/vim-github-colorscheme)
+- linters
+  - [vim-flake8](https://github.com/nvie/vim-flake8)
+  - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck)
+- language servers:
+  - [jedi-vim](https://github.com/davidhalter/jedi-vim)
+- formatters:
+  - [vim-autoformat](https://github.com/vim-autoformat/vim-autoformat):
+    - bash: [shfmt](https://github.com/mvdan/sh)
+    - python: [black](https://github.com/psf/black)
+- other:
+  - [vinfo](https://github.com/alx741/vinfo)
+
+![image](https://user-images.githubusercontent.com/42812113/185938905-41f14091-839e-4e95-9cd6-af9073ed38af.png)
+
 # [Emacs](https://github.com/EmilySeville7cfg/personal-editor-configs/blob/main/Emacs/.emacs)
+
+> :x: This list is not updated.
 
 - plugin managers:
   - builtin
@@ -36,26 +59,6 @@
   - [company](https://melpa.org/#/company)
 
 ![image](https://user-images.githubusercontent.com/42812113/186402143-72798d5b-2635-4a18-aa0a-17eef789dc9e.png)
-
-# [Vim](https://github.com/EmilySeville7cfg/personal-editor-configs/blob/main/Vim/.vimrc)
-
-- plugin managers:
-  - [vim-plug](https://github.com/junegunn/vim-plug)
-- themes:
-  - [vim-github-colorscheme](https://github.com/endel/vim-github-colorscheme)
-- linters
-  - [vim-flake8](https://github.com/nvie/vim-flake8)
-  - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck)
-- language servers:
-  - [jedi-vim](https://github.com/davidhalter/jedi-vim)
-- formatters:
-  - [vim-autoformat](https://github.com/vim-autoformat/vim-autoformat):
-    - bash: [shfmt](https://github.com/mvdan/sh)
-    - python: [black](https://github.com/psf/black)
-- other:
-  - [vinfo](https://github.com/alx741/vinfo)
-
-![image](https://user-images.githubusercontent.com/42812113/185938905-41f14091-839e-4e95-9cd6-af9073ed38af.png)
 
 # Visual Studio Code
 
@@ -102,6 +105,8 @@
   - [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
 
 # Edge
+
+> :x: This list is not updated.
 
 - [AdGuard AdBlocker](https://microsoftedge.microsoft.com/addons/detail/adguard-adblocker/pdffkfellgipmhklpdmokmckkkfcopbh)
 - [I don't care about cookies](https://microsoftedge.microsoft.com/addons/detail/i-dont-care-about-cookie/oholpbloipjbbhlhohaebmieiiieioal)
