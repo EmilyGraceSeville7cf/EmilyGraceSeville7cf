@@ -5,11 +5,11 @@ keen on administrating, scripting, creating sites and presentations. It’s my l
 I like to automate routine tasks and not to do them manually. Currently I have the following skills
 (just the most interesting tools are mentioned):
 
-- languages: `Bash`, `Python`, `Java`, `Emacs Lisp`
-- editors: `Emacs`
+- languages: `Bash`, `Python`, `Java`, `C`
+- ides: `Intellij IDEA`, `Code::Blocks`
 - vcs-tools `Git`, `GitHub`
 
-![image](https://user-images.githubusercontent.com/42812113/184562159-6634feb2-dc21-4ff9-a890-49256c484b96.png)
+![image](https://user-images.githubusercontent.com/42812113/193462657-4bf7e793-21ac-46fb-91e0-4a997633ebbb.png)
 
 [![presentation](https://img.shields.io/badge/Presentation-purple?logo=slides&logoColor=white)](https://docs.google.com/presentation/d/1oStx2_Lg3PEfhlY1S8dQgkB1sEGQkCcGJ760terG3a8/edit?usp=sharing)
 [![extensions](https://img.shields.io/badge/Extensions-orange?logo=readthedocs&logoColor=white)](./extensions.md)
@@ -19,3 +19,6 @@ I like to automate routine tasks and not to do them manually. Currently I have t
 [![skype](https://img.shields.io/badge/Skype-267aff?logo=skype&logoColor=white)](https://join.skype.com/invite/WMeGcqvpRVeW)
 ![whatsapp](https://img.shields.io/badge/89245201384-10B418?logo=whatsapp&logoColor=white) 
 
+----
+
+I am transgender girl. 
