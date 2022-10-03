@@ -6,7 +6,7 @@ I like to automate routine tasks and not to do them manually. Currently I have t
 (just the most interesting tools are mentioned):
 
 - languages: `Bash`, `Python`, `Java`, `C`
-- ides: `Intellij IDEA`, `Code::Blocks`
+- ides: `Intellij IDEA`, `CodeLite`
 - vcs-tools `Git`, `GitHub`
 
 ![image](https://user-images.githubusercontent.com/42812113/193462657-4bf7e793-21ac-46fb-91e0-4a997633ebbb.png)
