@@ -18,7 +18,3 @@ I like to automate routine tasks and not to do them manually. Currently I have t
 [![telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/emilyseville7cfg)
 [![skype](https://img.shields.io/badge/Skype-267aff?logo=skype&logoColor=white)](https://join.skype.com/invite/WMeGcqvpRVeW)
 ![whatsapp](https://img.shields.io/badge/89245201384-10B418?logo=whatsapp&logoColor=white) 
-
-----
-
-I am transgender girl. 
