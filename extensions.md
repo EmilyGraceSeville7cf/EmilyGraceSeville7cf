@@ -62,8 +62,6 @@
 
 # Visual Studio Code
 
-> :x: This list is not updated.
-
 - editor:
   - [Awesome Emacs Keymap](https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx)
 - configs:
