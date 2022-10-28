@@ -11,8 +11,8 @@ I like to automate routine tasks and not to do them manually. Currently I have t
 
 I support several projects such as (just the most interesting ones are mentioned):
 
-- [![tldr](https://img.shields.io/badge/TlDr-maintainer-green)](https://github.com/tldr-pages/tldr/pulls/EmilySeville7cfg)
-- [![schemastore](https://img.shields.io/badge/SchemaStore-maintainer-green)](https://github.com/SchemaStore/schemastore/pulls/EmilySeville7cfg)
+[![tldr](https://img.shields.io/badge/TlDr-maintainer-green)](https://github.com/tldr-pages/tldr/pulls/EmilySeville7cfg)
+[![schemastore](https://img.shields.io/badge/SchemaStore-contributor-cyan)](https://github.com/SchemaStore/schemastore/pulls/EmilySeville7cfg)
 
 ----
 
