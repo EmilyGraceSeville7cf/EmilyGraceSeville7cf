@@ -9,7 +9,12 @@ I like to automate routine tasks and not to do them manually. Currently I have t
 - ides: `Intellij IDEA`, `Visual Studio Code`
 - vcs-tools `Git`, `GitHub`
 
-![image](https://user-images.githubusercontent.com/42812113/193462657-4bf7e793-21ac-46fb-91e0-4a997633ebbb.png)
+I support several projects such as (just the most interesting ones are mentioned):
+
+- [![tldr](https://img.shields.io/badge/TlDr-maintainer-green)](https://github.com/tldr-pages/tldr/pulls/EmilySeville7cfg)
+- [![schemastore](https://img.shields.io/badge/SchemaStore-maintainer-green)](https://github.com/SchemaStore/schemastore/pulls/EmilySeville7cfg)
+
+----
 
 [![presentation](https://img.shields.io/badge/Presentation-purple?logo=slides&logoColor=white)](https://docs.google.com/presentation/d/1oStx2_Lg3PEfhlY1S8dQgkB1sEGQkCcGJ760terG3a8/edit?usp=sharing)
 [![extensions](https://img.shields.io/badge/Extensions-orange?logo=readthedocs&logoColor=white)](./extensions.md)
