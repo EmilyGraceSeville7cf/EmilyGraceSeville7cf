@@ -16,7 +16,7 @@ I support several projects such as (just the most interesting ones are mentioned
 
 ----
 
-<center>
+<p align="center">
 [![presentation](https://img.shields.io/badge/Presentation-purple?logo=slides&logoColor=white)](https://docs.google.com/presentation/d/1oStx2_Lg3PEfhlY1S8dQgkB1sEGQkCcGJ760terG3a8/edit?usp=sharing)
 [![extensions](https://img.shields.io/badge/Extensions-orange?logo=readthedocs&logoColor=white)](./extensions.md)
 [![youtube channels](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white)](./youtube.md)
@@ -24,4 +24,4 @@ I support several projects such as (just the most interesting ones are mentioned
 [![telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/emilyseville7cfg)
 [![skype](https://img.shields.io/badge/Skype-267aff?logo=skype&logoColor=white)](https://join.skype.com/invite/WMeGcqvpRVeW)
 ![whatsapp](https://img.shields.io/badge/89245201384-10B418?logo=whatsapp&logoColor=white) 
-</center>
+</p>
