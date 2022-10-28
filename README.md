@@ -1,6 +1,6 @@
 # About
 
-My name is ![name](https://img.shields.io/badge/Emily%20Grace%20Seville-purple). I am a native russian speaker, open source contributor and I am
+I am a native russian speaker, open source contributor and I am
 keen on administrating, scripting, creating sites and presentations. It’s my life.
 I like to automate routine tasks and not to do them manually. Currently I have the following skills
 (just the most interesting tools are mentioned):
