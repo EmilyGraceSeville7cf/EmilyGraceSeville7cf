@@ -5,9 +5,9 @@ keen on administrating, scripting, creating sites and presentations. It’s my l
 I like to automate routine tasks and not to do them manually. Currently I have the following skills
 (just the most interesting tools are mentioned):
 
-- languages: `Bash`, `Python`, `Java`, `C`
-- ides: `Intellij IDEA`, `Visual Studio Code`
-- vcs-tools `Git`, `GitHub`
+- :computer: **languages**: `Bash`, `Python`, `Java`, `C`
+- :memo: **ides**: `Intellij IDEA`, `Visual Studio Code`
+- :clock130: **vcs-tools**: `Git`, `GitHub`
 
 I support several projects such as (just the most interesting ones are mentioned):
 
