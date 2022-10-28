@@ -30,4 +30,5 @@ I support several projects such as (just the most interesting ones are mentioned
 [![skype](https://img.shields.io/badge/Skype-267aff?logo=skype&logoColor=white)](https://join.skype.com/invite/WMeGcqvpRVeW)
 ![whatsapp](https://img.shields.io/badge/89245201384-10B418?logo=whatsapp&logoColor=white) 
 
+[`follow my Telegram channel`](https://t.me/emilyseville7cfg_channel)
 </div>
