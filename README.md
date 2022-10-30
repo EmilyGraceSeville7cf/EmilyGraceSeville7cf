@@ -31,4 +31,6 @@ I support several projects such as (just the most interesting ones are mentioned
 ![whatsapp](https://img.shields.io/badge/89245201384-10B418?logo=whatsapp&logoColor=white) 
 
 [`follow my Telegram channel`](https://t.me/emilyseville7cfg_channel)
+  
+❗ Not available by 5th November. My email and phone are gonna to be changed soon. You will be notified when it happens.
 </div>
