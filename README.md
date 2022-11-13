@@ -22,7 +22,6 @@ I support several projects such as (just the most interesting ones are mentioned
 
 <div align="center">
 
-[![presentation](https://img.shields.io/badge/Presentation-purple?logo=slides&logoColor=white)](https://docs.google.com/presentation/d/1oStx2_Lg3PEfhlY1S8dQgkB1sEGQkCcGJ760terG3a8/edit?usp=sharing)
 [![extensions](https://img.shields.io/badge/Extensions-orange?logo=readthedocs&logoColor=white)](./extensions.md)
 [![youtube channels](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white)](./youtube.md)
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/EmilySeville7cfg)
