@@ -28,9 +28,7 @@ I support several projects such as (just the most interesting ones are mentioned
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/EmilySeville7cfg)
 [![telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/emilyseville7cfg)
 [![skype](https://img.shields.io/badge/Skype-267aff?logo=skype&logoColor=white)](https://join.skype.com/invite/WMeGcqvpRVeW)
-![whatsapp](https://img.shields.io/badge/89245201384-10B418?logo=whatsapp&logoColor=white) 
+![whatsapp](https://img.shields.io/badge/89242641519-10B418?logo=whatsapp&logoColor=white) 
 
 [`follow my Telegram channel`](https://t.me/emilyseville7cfg_channel)
-  
-❗ Not available by 12th November. My email and phone are gonna to be changed soon. You will be notified when it happens.
-</div>
+
