@@ -27,6 +27,8 @@ The following rules are being followed while contributing to my favorite project
 
 <div align="center">
 
+:x: Unavailable right now: repairing broken laptop.
+  
 [![extensions](https://img.shields.io/badge/Extensions-orange?logo=readthedocs&logoColor=white)](./extensions.md)
 [![youtube channels](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white)](./youtube.md)
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/EmilySeville7cfg)
