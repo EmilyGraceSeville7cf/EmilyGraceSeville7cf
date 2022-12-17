@@ -15,6 +15,7 @@ I support several projects such as (just the most interesting ones are mentioned
 
 [![tldr](https://img.shields.io/badge/TlDr:%20pages-member-10B418)](https://github.com/tldr-pages/tldr/pulls/EmilySeville7cfg)
 [![tldr](https://img.shields.io/badge/TlDr:%20emacs%20extension-member%20%26%20author-green)](https://github.com/tldr-pages/tldr-emacs-extension/pulls/EmilySeville7cfg)
+[![tldr](https://img.shields.io/badge/TlDr:%20vscode%20extension-member%20%26%20author-green)](https://github.com/tldr-pages/tldr-code-extension/pulls/EmilySeville7cfg)
 [![schemastore](https://img.shields.io/badge/SchemaStore:%20json%20schemas-contributor-blue)](https://github.com/SchemaStore/schemastore/pulls/EmilySeville7cfg) 
 
 </div>
