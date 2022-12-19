@@ -5,9 +5,11 @@ keen on administrating, scripting, creating sites and presentations. It’s my l
 I like to automate routine tasks and not to do them manually. Currently I have the following skills
 (just the most interesting tools are mentioned):
 
-- :computer: **languages**: `YQ`, `AWK`, `Bash`, `Emacs Lisp`, `JavaScript`, `Python`
+- :computer: **languages**: _`YQ`_, _`AWK`_, `Bash`, `Emacs Lisp`, `JavaScript`, `Python`
 - :memo: **ides and editors**: `Visual Studio Code`
 - :clock130: **vcs-tools**: `Git`, `GitHub`
+
+Now I am replacing `YQ` and `AWK` with my personal Python utilities as I don't to waste my energy learning too much languages.
 
 I support several projects such as (just the most interesting ones are mentioned):
 
