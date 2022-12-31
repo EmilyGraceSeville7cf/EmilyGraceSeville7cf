@@ -1,4 +1,4 @@
-# About
+# About 🎄 💕
 
 I am a native russian speaker, open source contributor and I am
 keen on administrating, scripting, creating sites and presentations. It’s my life.
