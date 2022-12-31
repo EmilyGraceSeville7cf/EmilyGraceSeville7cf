@@ -15,13 +15,13 @@ I support several projects such as (just the most interesting ones are mentioned
 
 <div align="center">
 
-[![tldr](https://img.shields.io/badge/Better%20Emacs-owner%20%26%20author-red)](https://github.com/emilyseville7cfg-better-emacs)
-[![tldr](https://img.shields.io/badge/TlDr:%20pages-member-10B418)](https://github.com/tldr-pages/tldr/pulls/EmilySeville7cfg)
-[![tldr](https://img.shields.io/badge/TlDr:%20emacs%20extension-member%20%26%20author-green)](https://github.com/tldr-pages/tldr-emacs-extension/pulls/EmilySeville7cfg)
-[![tldr](https://img.shields.io/badge/TlDr:%20vscode%20extension-member%20%26%20author-green)](https://github.com/tldr-pages/tldr-code-extension/pulls/EmilySeville7cfg)
-[![tldr](https://img.shields.io/badge/TlDr:%20Bash%20framework-member%20%26%20author-green)](https://github.com/tldr-pages/tldr-bash-framework)
-[![schemastore](https://img.shields.io/badge/SchemaStore:%20json%20schemas-contributor-blue)](https://github.com/SchemaStore/schemastore/pulls/EmilySeville7cfg) 
-[![schemastore](https://img.shields.io/badge/cheatsheets:%20pages-contributor-blue)](https://github.com/cheat/cheatsheets/pulls/EmilySeville7cfg)
+[![tldr](https://img.shields.io/badge/Better%20Emacs-owner%20%26%20author-e31700)](https://github.com/emilyseville7cfg-better-emacs)
+[![tldr](https://img.shields.io/badge/TlDr:%20emacs%20extension-member%20%26%20author-e35300)](https://github.com/tldr-pages/tldr-emacs-extension/pulls/EmilySeville7cfg)
+[![tldr](https://img.shields.io/badge/TlDr:%20vscode%20extension-member%20%26%20author-e35300)](https://github.com/tldr-pages/tldr-code-extension/pulls/EmilySeville7cfg)
+[![tldr](https://img.shields.io/badge/TlDr:%20Bash%20framework-member%20%26%20author-e35300)](https://github.com/tldr-pages/tldr-bash-framework)
+[![tldr](https://img.shields.io/badge/TlDr:%20pages-member-797d00)](https://github.com/tldr-pages/tldr/pulls/EmilySeville7cfg)
+[![schemastore](https://img.shields.io/badge/SchemaStore:%20json%20schemas-contributor-2d8f00)](https://github.com/SchemaStore/schemastore/pulls/EmilySeville7cfg) 
+[![schemastore](https://img.shields.io/badge/cheatsheets:%20pages-contributor-2d8f00)](https://github.com/cheat/cheatsheets/pulls/EmilySeville7cfg)
 
 </div>
 
