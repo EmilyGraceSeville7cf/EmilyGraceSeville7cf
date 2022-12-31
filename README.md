@@ -15,6 +15,7 @@ I support several projects such as (just the most interesting ones are mentioned
 
 <div align="center">
 
+[![tldr](https://img.shields.io/badge/Better%20Emacs-owner%20%26%20author-red)](https://github.com/emilyseville7cfg-better-emacs)
 [![tldr](https://img.shields.io/badge/TlDr:%20pages-member-10B418)](https://github.com/tldr-pages/tldr/pulls/EmilySeville7cfg)
 [![tldr](https://img.shields.io/badge/TlDr:%20emacs%20extension-member%20%26%20author-green)](https://github.com/tldr-pages/tldr-emacs-extension/pulls/EmilySeville7cfg)
 [![tldr](https://img.shields.io/badge/TlDr:%20vscode%20extension-member%20%26%20author-green)](https://github.com/tldr-pages/tldr-code-extension/pulls/EmilySeville7cfg)
