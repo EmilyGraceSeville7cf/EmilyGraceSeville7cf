@@ -34,17 +34,10 @@ The following rules are being followed while contributing to my favorite project
 
 ## How do I review pull requests?
 
-In TlDr my review process is splited in 3 steps:
+For the first 2 pages less than or equal 50 lines I provide detailed mistake expanations for all issues
+with links to contributing guides how to fix them.
 
-- Provide detailed mistake descriptions in the first TlDr page and expect a PR author to change other pages by analogue.
-  Any questions are resolved here with clear explanations.
-- If the PR author fails to apply mandatory fixes in other pages then I show how to do it in the second TlDr page.
-  But in this step just suggestions are given.
-- If the PR author fails to fix found mistakes even after the previous step then I just give a link to our style guide via this comment:
-  `Please read our [style guide](https://github.com/tldr-pages/tldr/blob/main/contributing-guides/style-guide.md) and fix all remaining mandatory to fix errors. Everything unmentioned in our guide is up to you.`
-
-In Schema store review process is simpler: it's almost the same as above but the second step is ommited (as JSON schemas are usually much larger than
-  TlDr pages).
+Other remaining pages are not scanned for problems.
 
 ----
 
