@@ -15,7 +15,9 @@ I support several projects such as (just the most interesting ones are mentioned
 
 <div align="center">
 
-[![tldr](https://img.shields.io/badge/Better%20Emacs-owner%20%26%20author-8442f5)](https://github.com/emilyseville7cfg-better-emacs)
+[![tldr](https://img.shields.io/badge/Better%20Emacs:%20range%20pattern-owner%20%26%20author-8442f5)](https://github.com/emilyseville7cfg-better-emacs/range-pattern)
+[![tldr](https://img.shields.io/badge/Better%20Emacs:%20random%20generators-owner%20%26%20author-8442f5)](https://github.com/emilyseville7cfg-better-emacs/random-generators)
+[![tldr](https://img.shields.io/badge/Better%20Emacs:%20generators-owner%20%26%20author-8442f5)](https://github.com/emilyseville7cfg-better-emacs/generators)
 [![tldr](https://img.shields.io/badge/TlDr:%20emacs%20extension-member%20%26%20author-427bf5)](https://github.com/tldr-pages/tldr-emacs-extension/pulls/EmilySeville7cfg)
 [![tldr](https://img.shields.io/badge/TlDr:%20vscode%20extension-member%20%26%20author-427bf5)](https://github.com/tldr-pages/tldr-code-extension/pulls/EmilySeville7cfg)
 [![tldr](https://img.shields.io/badge/TlDr:%20Bash%20framework-member%20%26%20author-427bf5)](https://github.com/tldr-pages/tldr-bash-framework)
