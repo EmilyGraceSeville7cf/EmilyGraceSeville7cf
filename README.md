@@ -21,7 +21,7 @@ I support several projects such as (just the most interesting ones are mentioned
 [![tldr-extension](https://img.shields.io/badge/TlDr:%20emacs%20extension-contributor%20%26%20author-bd8411)](https://github.com/tldr-pages/tldr-emacs-extension/pulls/EmilySeville7cfg)
 [![tldr](https://img.shields.io/badge/TlDr:%20Bash%20framework-contributor%20%26%20author-bd8411)](https://github.com/tldr-pages/tldr-bash-framework)
 [![schemastore](https://img.shields.io/badge/SchemaStore:%20json%20schemas-contributor-bd8411)](https://github.com/SchemaStore/schemastore/pulls/EmilySeville7cfg) 
-[![schemastore](https://img.shields.io/badge/cheatsheets:%20pages-contributor-bd8411)](https://github.com/cheat/cheatsheets/pulls/EmilySeville7cfg)
+[![cheatsheets](https://img.shields.io/badge/cheatsheets:%20pages-contributor-bd8411)](https://github.com/cheat/cheatsheets/pulls/EmilySeville7cfg)
 
 </div>
 
