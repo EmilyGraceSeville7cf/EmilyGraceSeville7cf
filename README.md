@@ -6,7 +6,7 @@ I like to automate routine tasks and not to do them manually. Currently I have t
 (just the most interesting tools are mentioned):
 
 - :computer: **languages**: `Bash (CI/CD)` with `sed` and `jq`, `ELisp (Emacs)`, `TinyScheme (GIMP)`, `JavaScript (Visual Studio Code)`
-- :memo: **ides and editors**: `Visual Studio Code`
+- :memo: **ides and editors**: `Micro`, `Visual Studio Code`
 - :clock130: **vcs-tools**: `Git`, `GitHub`
 
 I support several projects such as (just the most interesting ones are mentioned):
