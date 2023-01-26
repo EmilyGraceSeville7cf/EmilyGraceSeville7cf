@@ -25,7 +25,7 @@ I support several projects such as (just the most interesting ones are mentioned
 
 The following rules are being followed while contributing to my favorite projects:
 
-- I review at most 5 the most recent PRs per project I contribute to everyday.
+- I review at most 2 the most recent PRs per project I contribute to everyday.
 - I sent at most 2 PRs per project I contribute to everyday.
 
 ## How do I review pull requests?
