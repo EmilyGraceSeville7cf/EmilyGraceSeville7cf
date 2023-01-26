@@ -5,11 +5,9 @@ keen on administrating, scripting, creating sites and presentations. It’s my l
 I like to automate routine tasks and not to do them manually. Currently I have the following skills
 (just the most interesting tools are mentioned):
 
-- :computer: **languages**: _`YQ`_, _`AWK`_, `Bash (CI/CD)`, `ELisp (Emacs)`, `TinyScheme (GIMP)`, `Clojure (standalone applications)`, `JavaScript (Visual Studio Code)`, `Python`
+- :computer: **languages**: `Bash (CI/CD)` with `sed` and `jq`, `ELisp (Emacs)`, `TinyScheme (GIMP)`, `JavaScript (Visual Studio Code)`
 - :memo: **ides and editors**: `Visual Studio Code`
 - :clock130: **vcs-tools**: `Git`, `GitHub`
-
-Now I am replacing `YQ` and `AWK` with my personal Python utilities as I don't to waste my energy learning too much languages.
 
 I support several projects such as (just the most interesting ones are mentioned):
 
@@ -49,4 +47,3 @@ Other remaining pages are not scanned for problems.
 ![whatsapp](https://img.shields.io/badge/89242641519-10B418?logo=whatsapp&logoColor=white) 
 
 [`follow my Telegram channel`](https://t.me/emilyseville7cfg_channel)
-
