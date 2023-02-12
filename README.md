@@ -9,24 +9,19 @@ I like to automate routine tasks and not to do them manually. Currently I have t
 - :memo: **ides and editors**: `Micro`, `Visual Studio Code`
 - :clock130: **vcs-tools**: `Git`, `GitHub`
 
-I support several projects such as (just the most interesting ones are mentioned):
+I support several projects and organizations such as (just the most interesting ones are mentioned):
 
 <div align="center">
 
-[![range-patter](https://img.shields.io/badge/Better%20Emacs:%20range%20pattern-owner%20%26%20author-8442f5)](https://github.com/emilyseville7cfg-better-emacs/range-pattern)
-[![random-generators](https://img.shields.io/badge/Better%20Emacs:%20random%20generators-owner%20%26%20author-8442f5)](https://github.com/emilyseville7cfg-better-emacs/random-generators)
-[![generators](https://img.shields.io/badge/Better%20Emacs:%20generators-owner%20%26%20author-8442f5)](https://github.com/emilyseville7cfg-better-emacs/generators)
-[![tldr-extension](https://img.shields.io/badge/TlDr:%20emacs%20extension-contributor%20%26%20author-bd8411)](https://github.com/tldr-pages/tldr-emacs-extension/pulls/EmilySeville7cfg)
-[![tldr](https://img.shields.io/badge/TlDr:%20Bash%20framework-contributor%20%26%20author-bd8411)](https://github.com/tldr-pages/tldr-bash-framework)
-[![schemastore](https://img.shields.io/badge/SchemaStore:%20json%20schemas-contributor-bd8411)](https://github.com/SchemaStore/schemastore/pulls/EmilySeville7cfg) 
-[![cheatsheets](https://img.shields.io/badge/cheatsheets:%20pages-contributor-bd8411)](https://github.com/cheat/cheatsheets/pulls/EmilySeville7cfg)
+[![command-line-interface-pages](https://img.shields.io/badge/Command%20Line%20Interface%20Pages:%20organization-owner%20%26%20author-a32236?labelColor=ed425c&style=flat-square)](https://github.com/command-line-interface-pages)
+[![better-emacs](https://img.shields.io/badge/Better%20Emacs:%20organization-owner%20%26%20author-a32236?labelColor=ed425c&style=flat-square)](https://github.com/emilyseville7cfg-better-emacs)
+[![schemastore](https://img.shields.io/badge/SchemaStore:%20json%20schemas-contributor-a32236?labelColor=ed425c&style=flat-square)](https://github.com/SchemaStore/schemastore/pulls/EmilySeville7cfg) 
 
 </div>
 
-The following rules are being followed while contributing to my favorite projects:
+But now I mainly focused on [**[C]ommand [L]ine [I]nterface [P]ages**](https://github.com/command-line-interface-pages/prototypes/tree/main/clip-view) project:
 
-- I review at most 2 the most recent PRs per project I contribute to everyday.
-- I sent at most 2 PRs per project I contribute to everyday.
+![image](https://user-images.githubusercontent.com/42812113/218328402-f46706b8-6df1-4440-a01e-9702de2a4f56.png)
 
 ## How do I review pull requests? 👓
 
