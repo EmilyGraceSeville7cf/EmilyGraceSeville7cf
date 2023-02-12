@@ -1,4 +1,4 @@
-# About 🎄 💕
+# About 💕
 
 I am a native russian speaker, open source contributor and I am
 keen on administrating, scripting, creating sites and presentations. It’s my life.
@@ -28,7 +28,7 @@ The following rules are being followed while contributing to my favorite project
 - I review at most 2 the most recent PRs per project I contribute to everyday.
 - I sent at most 2 PRs per project I contribute to everyday.
 
-## How do I review pull requests?
+## How do I review pull requests? 👓
 
 For the first 2 pages less than or equal 50 lines I provide detailed mistake expanations for all issues
 with links to contributing guides how to fix them.
