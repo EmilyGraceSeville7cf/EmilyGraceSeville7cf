@@ -44,4 +44,3 @@ Other remaining pages are not scanned for problems.
 [![skype](https://img.shields.io/badge/Skype-267aff?logo=skype&logoColor=white)](https://join.skype.com/invite/WMeGcqvpRVeW)
 ![whatsapp](https://img.shields.io/badge/89242641519-10B418?logo=whatsapp&logoColor=white) 
 
-[`follow my Telegram channel`](https://t.me/emilyseville7cfg_channel)
