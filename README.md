@@ -43,6 +43,7 @@ Other remaining pages are not scanned for problems.
 [![youtube channels](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white)](./youtube.md)
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/EmilySeville7cfg)
 [![telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/emilyseville7cfg)
+[![fosstodon](https://img.shields.io/badge/Fosstodon-4251ed?logo=mastodon&logoColor=white)](https://fosstodon.org/@EmilySeville7cfg)
 [![skype](https://img.shields.io/badge/Skype-267aff?logo=skype&logoColor=white)](https://join.skype.com/invite/WMeGcqvpRVeW)
 ![whatsapp](https://img.shields.io/badge/89242641519-10B418?logo=whatsapp&logoColor=white) 
 
