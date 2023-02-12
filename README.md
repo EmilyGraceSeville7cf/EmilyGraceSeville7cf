@@ -23,6 +23,8 @@ But now I mainly focused on [**[C]ommand [L]ine [I]nterface [P]ages**](https://g
 
 ![image](https://user-images.githubusercontent.com/42812113/218328402-f46706b8-6df1-4440-a01e-9702de2a4f56.png)
 
+which aims to replace [**TlDr**](https://github.com/tldr-pages/tldr) project.
+
 ## How do I review pull requests? 👓
 
 For the first 2 pages less than or equal 50 lines I provide detailed mistake expanations for all issues
