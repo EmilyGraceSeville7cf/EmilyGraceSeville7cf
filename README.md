@@ -21,7 +21,7 @@ I support several projects and organizations such as (just the most interesting 
 
 But now I mainly focused on [**[C]ommand [L]ine [I]nterface [P]ages**](https://github.com/command-line-interface-pages/prototypes/tree/main/clip-view) project:
 
-![image](https://user-images.githubusercontent.com/42812113/218328402-f46706b8-6df1-4440-a01e-9702de2a4f56.png)
+![image](https://user-images.githubusercontent.com/42812113/220039936-52d78a9f-4ef5-4a2f-9bdc-29f43d885ea7.png)
 
 which aims to replace [**TlDr**](https://github.com/tldr-pages/tldr) project.
 
