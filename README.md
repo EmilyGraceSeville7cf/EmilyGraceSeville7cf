@@ -23,7 +23,7 @@ But now I mainly focused on [**[C]ommand [L]ine [I]nterface [P]ages**](https://g
 
 ![image](https://user-images.githubusercontent.com/42812113/220039936-52d78a9f-4ef5-4a2f-9bdc-29f43d885ea7.png)
 
-which aims to replace [**TlDr**](https://github.com/tldr-pages/tldr) project.
+which provides neat command help pages.
 
 ## How do I review pull requests? 👓
 
