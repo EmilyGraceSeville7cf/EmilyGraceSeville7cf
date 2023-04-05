@@ -5,7 +5,7 @@ keen on administrating, scripting, creating sites and presentations. It’s my l
 I like to automate routine tasks and not to do them manually. Currently I have the following skills
 (just the most interesting tools are mentioned):
 
-- :computer: **languages**: `Bash (CI/CD and tool prototypes)`, `ELisp (Emacs packages)`, `TinyScheme (GIMP extensions)`, `JavaScript (Visual Studio Code extensions)`
+- :computer: **languages**: `Bash + Sed + YQ (CI/CD and tool prototypes)`, `ELisp (Emacs packages)`, `JavaScript (Visual Studio Code extensions)`
 - :memo: **ides and editors**: `Micro`, `Visual Studio Code`
 - :clock130: **vcs-tools**: `Git`, `GitHub`
 
