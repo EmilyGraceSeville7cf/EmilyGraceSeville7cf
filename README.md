@@ -6,7 +6,7 @@ I like to automate routine tasks and not to do them manually. Currently I have t
 (just the most interesting tools are mentioned):
 
 - :computer: **languages**: `Bash + Sed + YQ (CI/CD)`, `Go (tools)`, `Hugo templates (generated site content)`, `JavaScript (Visual Studio Code extensions)`
-- :memo: **ides and editors**: `Visual Studio Code` (programming stuff), `Krita (drawing logos and animations)`
+- :memo: **ides and editors**: `Visual Studio Code (programming stuff)`, `Krita (drawing logos and animations)`
 - :clock130: **vcs-tools**: `Git`, `GitHub`
 
 I support several projects and organizations such as (just the most interesting ones are mentioned):
