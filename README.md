@@ -42,5 +42,5 @@ Other remaining pages are not scanned for problems.
 [![telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/emilyseville7cfg)
 [![fosstodon](https://img.shields.io/badge/Fosstodon-4251ed?logo=mastodon&logoColor=white)](https://fosstodon.org/@EmilySeville7cfg)
 [![skype](https://img.shields.io/badge/Skype-267aff?logo=skype&logoColor=white)](https://join.skype.com/invite/WMeGcqvpRVeW)
-![whatsapp](https://img.shields.io/badge/89242641519-10B418?logo=whatsapp&logoColor=white) 
+![whatsapp](https://img.shields.io/badge/89245201384-10B418?logo=whatsapp&logoColor=white) 
 
