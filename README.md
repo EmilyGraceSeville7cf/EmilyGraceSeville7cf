@@ -9,6 +9,8 @@ I like to automate routine tasks and not to do them manually. Currently I have t
 - :memo: **ides and editors**: `Visual Studio Code (programming stuff)`, `Krita (drawing logos and animations)`
 - :clock130: **vcs-tools**: `Git`, `GitHub`
 
+![gopher](./animated-gopher.gif)
+
 I support several projects and organizations such as (just the most interesting ones are mentioned):
 
 <div align="center">
