@@ -11,7 +11,7 @@ I like to automate routine tasks and not to do them manually. Currently I have t
 
 <div align="center">
 
-![gopher](./animated-gopher.gif)
+![gopher](./animated-jumping-gopher.gif)
 
 </div>
 
