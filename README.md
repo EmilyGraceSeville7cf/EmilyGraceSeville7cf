@@ -5,7 +5,7 @@ keen on administrating, scripting, creating sites and presentations. It’s my l
 I like to automate routine tasks and not to do them manually. Currently I have the following skills
 (just the most interesting tools are mentioned):
 
-- :computer: **languages**: `Bash + Sed + YQ (CI/CD)`, `Go (tools)`, `Hugo templates (generated site content)`, `JavaScript (Visual Studio Code extensions)`, `YAML (configs)`, `JSON (configs and JSON schemas)`, `XML (configs and XSD)`
+- :computer: **languages**: `Nushell (CI/CD)`, `Go (tools)`, `Hugo templates (generated site content)`, `JavaScript (Visual Studio Code extensions)`, `YAML (configs)`, `JSON (configs and JSON schemas)`, `XML (configs and XSD)`
 - :memo: **ides and editors**: `Visual Studio Code (programming stuff)`, `Krita (drawing logos and animations)`
 - :clock130: **vcs-tools**: `Git`, `GitHub`
 
