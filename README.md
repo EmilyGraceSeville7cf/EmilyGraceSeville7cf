@@ -50,3 +50,7 @@ Other remaining pages are not scanned for problems.
 [![skype](https://img.shields.io/badge/Skype-267aff?logo=skype&logoColor=white)](https://join.skype.com/invite/WMeGcqvpRVeW)
 ![whatsapp](https://img.shields.io/badge/89245201384-10B418?logo=whatsapp&logoColor=white) 
 
+</div>
+
+
+> **Warning** Not here, in Moscow, passing commission for my sex reassignment. Gonna return soon, less than in a week.
