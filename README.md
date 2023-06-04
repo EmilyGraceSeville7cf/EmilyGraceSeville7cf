@@ -53,4 +53,4 @@ Other remaining pages are not scanned for problems.
 </div>
 
 
-> **Warning** Not here, in Moscow, passing commission for my sex reassignment. Gonna return soon, less than in a week.
+> **Warning** Pending for the first operation, may be slow to respond.
