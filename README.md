@@ -5,8 +5,8 @@ keen on administrating, scripting, creating sites and presentations. It’s my l
 I like to automate routine tasks and not to do them manually. Currently I have the following skills
 (just the most interesting tools are mentioned):
 
-- :computer: **languages**: `Dash (minimalistic tools)`, `Nushell (interactive session)`, `Python (embeeded scripts)`, `Go (tools)`, `Hugo templates (generated site content)`, `YAML (configs)`, `JSON (configs and JSON schemas)`
-- :memo: **ides and editors**: `Visual Studio Code (programming stuff)`, `Krita (drawing logos and animations)`
+- :computer: **languages**: `Nushell (interactive session and scripting)`, `Go (scripting)`, `Hugo (generated site content)`, `YAML (configs)`, `JSON (configs and JSON schemas)`
+- :memo: **ides and editors**: `Visual Studio Code (programming stuff)`, `Inkscape (drawing logos)`
 - :clock130: **vcs-tools**: `Git`, `GitHub`
 
 <div align="center">
@@ -45,7 +45,7 @@ Other remaining pages are not scanned for problems.
 [![extensions](https://img.shields.io/badge/Extensions-orange?logo=readthedocs&logoColor=white)](./extensions.md)
 [![youtube channels](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white)](./youtube.md)
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/EmilyGraceSeville7cf)
-[![telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/emilygraceseville7cf)
+![discord](https://img.shields.io/badge/@emilygraceseville7cf-4955ad?logo=discord&logoColor=white)
 ![whatsapp](https://img.shields.io/badge/89243311908-10B418?logo=whatsapp&logoColor=white) 
 
 </div>
