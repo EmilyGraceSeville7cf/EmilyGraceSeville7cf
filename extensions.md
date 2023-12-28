@@ -1,5 +1,7 @@
 # [Emacs](https://github.com/EmilySeville7cfg/personal-editor-configs/blob/main/Emacs/.emacs)
 
+> :x: This list is not updated.
+
 - plugin managers:
   - builtin
 - themes:
