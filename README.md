@@ -7,6 +7,7 @@
 [![signal](https://img.shields.io/badge/Signal-blue?logo=signal&logoColor=white)](https://signal.me/#eu/-xVbMeyDih_CE6JuCn-XuEtIbbXgv2H5M7WS7U_87KQeEycaT2hIiZYmFvuJVyAq)
 [![element](https://img.shields.io/badge/Element-@emilygraceseville7cf:matrix.org-0DBD8B?logo=element&labelColor=454545&logoColor=white)](https://github.com/EmilyGraceSeville7cf/EmilyGraceSeville7cf/blob/main/infos/no-profile-link-supported.md)
 [![wire](https://img.shields.io/badge/Wire-@emilygraceseville7cf-454545?logo=wire&labelColor=white&logoColor=black)](https://github.com/EmilyGraceSeville7cf/EmilyGraceSeville7cf/blob/main/infos/no-profile-link-supported.md)
+[![mastodon](https://img.shields.io/badge/Mastodon-744cc6?logo=mastodon&logoColor=white)](https://fosstodon.org/@EmilySeville7cfg)
 
 ![whatsapp](https://img.shields.io/badge/+7%20999%20808%2009%2030-10B418?logo=whatsapp&logoColor=white)
 
