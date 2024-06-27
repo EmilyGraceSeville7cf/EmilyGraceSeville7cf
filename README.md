@@ -1,13 +1,37 @@
-# About 💕
+# Maisa Unbelievable 💕
 
-I am a native russian speaker, open source contributor and I am
-keen on administrating, scripting, creating sites and presentations. It’s my life.
-I like to automate routine tasks and not to do them manually. Currently I have the following skills
-(just the most interesting tools are mentioned):
+<div align="center">
 
-- :computer: **languages**: `Fish (interactive session and scripting)`, `JavaScript (scripting)`, `Go (scripting)`, `Hugo (generated site content)`, `YAML (configs)`, `JSON (configs and JSON schemas)`
-- :memo: **ides and editors**: `Visual Studio Code (programming stuff)`, `Inkscape (drawing logos)`
-- :clock130: **vcs-tools**: `Git`, `GitHub`
+[![reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/EmilyGraceSeville7cf)
+[![session](https://img.shields.io/badge/Session-004b44?logo=session&logoColor=white)](https://github.com/EmilyGraceSeville7cf/EmilyGraceSeville7cf/blob/main/ids/session-qr-code.png)
+![element](https://img.shields.io/badge/Element-@emilygraceseville7cf:matrix.org-0DBD8B?logo=element&labelColor=454545&logoColor=white)
+![wire](https://img.shields.io/badge/Wire-@emilygraceseville7cf-454545?logo=wire&labelColor=white&logoColor=black)
+![whatsapp](https://img.shields.io/badge/+7%20999%20808%2009%2030-10B418?logo=whatsapp&logoColor=white)
+
+**Session** messenger is the recommended way to contact me.
+</div>
+
+## About me
+
+I am a native russian speaker, open source contributor and I am keen on
+administrating, scripting, creating sites and presentations. It’s my life. I
+like to automate routine tasks and not to do them manually. Currently I have the
+following skills (just the most interesting tools are mentioned and some of
+their usages are explained):
+
+- :computer: **programming, markup and configuration languages**:
+  - `Fish`: automating tasks for developed tools
+  - `TinyScheme` & `JavaScript`: extending GIMP and OnlyOffice respectively
+  - `Go`: developing CLI, TUI and GUI applications
+  - `YAML`, `JSON`: configuration languages for `Go` applications
+  - `Markdown`: explaining developed tools
+- :memo: **ides and editors**:
+  - `Visual Studio Code`: programming, writing tool explanations and
+    configurations
+  - `GIMP` & `Inkscape`: drawing images for developed tools
+  - `OnlyOffice`: creating presentations about English and German
+- :clock130: **vcs-tools**:
+  - `Git` & `GitHub`: managing tool development
 
 <div align="center">
 
@@ -56,16 +80,3 @@ Starting from 29 december 2023 I use the following placeholder syntax in all my 
 
 , where instead of `placeholder` any text can be written which explains what should be put instead of CLI argument(s),
 but without spaces unless it's explicitly permitted.
-
-
-----
-
-<div align="center">
-  
-[![extensions](https://img.shields.io/badge/Extensions-orange?logo=readthedocs&logoColor=white)](./extensions.md)
-[![youtube channels](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white)](./youtube.md)
-[![reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/EmilyGraceSeville7cf)
-![discord](https://img.shields.io/badge/@emilygraceseville7cf-4955ad?logo=discord&logoColor=white)
-![whatsapp](https://img.shields.io/badge/89243311908-10B418?logo=whatsapp&logoColor=white) 
-
-</div>
