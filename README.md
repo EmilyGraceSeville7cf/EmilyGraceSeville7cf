@@ -26,7 +26,7 @@ their usages are explained):
   - `Fish`: automating tasks for developed tools
   - `TinyScheme` & `JavaScript`: extending GIMP and OnlyOffice respectively
   - `Go`: developing CLI, TUI and GUI applications
-  - `YAML`, `JSON`: configuration languages for `Go` applications
+  - `YAML` & `JSON`: configuration languages for `Go` applications
   - `Markdown`: explaining developed tools
 - :memo: **ides and editors**:
   - `Visual Studio Code`: programming, writing tool explanations and
