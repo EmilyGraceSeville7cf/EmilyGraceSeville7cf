@@ -11,7 +11,7 @@
 
 ![whatsapp](https://img.shields.io/badge/+7%20999%20808%2009%2030-10B418?logo=whatsapp&logoColor=white)
 
-**Session** messenger is the recommended way to contact me.
+**Google Chat** messenger is the recommended way to contact me.
 </div>
 
 ## About me
