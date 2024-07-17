@@ -25,7 +25,7 @@ their usages are explained):
 
 - :computer: **programming, markup and configuration languages**:
   - `Fish`: automating tasks for developed tools
-  - `TinyScheme` & `JavaScript`: extending GIMP and OnlyOffice respectively
+  - `TinyScheme`: extending GIMP
   - `Go`: developing CLI, TUI and GUI applications
   - `YAML` & `JSON`: configuration languages for `Go` applications
   - `Markdown`: explaining developed tools
