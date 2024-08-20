@@ -69,19 +69,19 @@ Other remaining pages are not scanned for problems.
 
 ## Placeholder syntax in my CLI tools
 
-Starting from 29 december 2023 I use the following placeholder syntax in all my tools ([Go-inspired](https://pkg.go.dev/text/template)):
+Starting from 21 August 2024 I use the following placeholder syntax in all my tools ([Go-inspired](https://pkg.go.dev/text/template)):
 
 - `{{placeholder}}`: some arbitrary text with no constraints implied which should be exactly one CLI argument.
-  If there are any they should be explicitly stated in the documentation.
-  There is no standardized way for describing them.
-- `{{placeholder ...}}`: almost the same thing as the previous one, but here one or more arguments are expected.
-  If no arguments or some specific amount of them is required it should be explicitly stated in the documentation.
-  With `|` ellipsis (`...`) can be used just ones, at the end, implying that all alternatives accept several arguments
-  unless the opposite is stated.
-  There is no standardized way for mentioning it.
+- `{{placeholder ...}}`: almost the same thing as the previous one, but here zero or more arguments are expected.
 - `|` can be used inside double curly braces to provide more than one alternative for what can be placed instead of placeholder.
-  If some alternatives can be used just under certain circumstances, it should be explicitly stated in the documentation.
-  There is no standardized way for mentioning it.
 
 , where instead of `placeholder` any text can be written which explains what should be put instead of CLI argument(s),
-but without spaces unless it's explicitly permitted.
+but without spaces unless it's explicitly permitted. This syntax is used just when no other default syntax is mandated.
+
+Examples:
+
+```fish
+command {{number}} # 1 number expected
+command {{number..}} # 0 or more numbers expected
+command {{number|strings...}} # one number or 0 or more string expected
+```
