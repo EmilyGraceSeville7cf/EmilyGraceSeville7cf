@@ -60,14 +60,7 @@ But now I mainly focused on [**[C]ommand [L]ine [I]nterface [P]ages**](https://g
 
 which provides neat command help pages.
 
-## How do I review pull requests? 👓
-
-For the first 2 pages less than or equal 50 lines I provide detailed mistake expanations for all issues
-with links to contributing guides how to fix them.
-
-Other remaining pages are not scanned for problems.
-
-## Placeholder syntax in my CLI tools
+## Placeholder syntax in my CLI tools 📖
 
 Starting from 21 August 2024 I use the following placeholder syntax in all my tools ([Go-inspired](https://pkg.go.dev/text/template)):
 
