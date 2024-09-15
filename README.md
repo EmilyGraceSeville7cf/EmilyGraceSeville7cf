@@ -12,7 +12,8 @@
 
 ![whatsapp](https://img.shields.io/badge/+7%20999%20808%2009%2030-10B418?logo=whatsapp&logoColor=white)
 
-**Discord** messenger is the recommended way to contact me.
+**Discord** messenger is the recommended way to contact me, while **Bluesky**
+to view my updates.
 </div>
 
 ## About me
