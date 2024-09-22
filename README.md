@@ -38,7 +38,8 @@ most interesting tools are mentioned and some of their usages are explained):
 - :memo: **ides and editors**:
   - `Visual Studio Code`: programming, writing tool explanations and
     configurations
-  - `GIMP` & `Inkscape`: drawing images for developed tools
+  - `GIMP` ([scripts](https://github.com/EmilyGraceSeville7cf/tinyscheme-library-scripts))
+    & `Inkscape`: drawing images for developed tools
   - `OnlyOffice`: creating presentations about English and German
 - :clock130: **vcs-tools**:
   - `Git` & `GitHub`: managing tool development
