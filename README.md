@@ -24,22 +24,21 @@ and not to do them manually. Currently I have the following skills (just the
 most interesting tools are mentioned and some of their usages are explained):
 
 - :computer: **programming, markup and configuration languages**:
-  - [`Fish`](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)
-    ([community](https://matrix.to/#/#fish-shell:matrix.org)): automating tasks
-    for developed tools
-  - `TinyScheme`: extending GIMP
-  - [`Go`](https://github.com/stars/EmilyGraceSeville7cf/lists/go-tools-use)
-    ([community](https://discord.gg/GhxhQ4Jm)): developing CLI, TUI and GUI applications
-  - [`JavaScript`](https://github.com/stars/EmilyGraceSeville7cf/lists/javascript-tools-use)
-    ([community](https://discord.gg/nm6VFEp2)): developing VS Code extensions and
-    Web Apps
+  - `Fish` ([💬 community](https://matrix.to/#/#fish-shell:matrix.org) |
+    [🛠️ favorites](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)):
+    automating tasks for developed tools
+  - `TinyScheme` ([💬 community](https://discord.gg/mVYFqQWf) | [🖊️ scripts](https://github.com/EmilyGraceSeville7cf/tinyscheme-library-scripts)):
+    extending GIMP
+  - `Go` ([💬 community](https://discord.gg/GhxhQ4Jm) | [🛠️ tools](https://github.com/stars/EmilyGraceSeville7cf/lists/go-tools-use)):
+    developing CLI, TUI and GUI applications
+  - `JavaScript` ([💬 community](https://discord.gg/nm6VFEp2) | [🛠️ tools](https://github.com/stars/EmilyGraceSeville7cf/lists/javascript-tools-use)):
+    developing VS Code extensions and Web Apps
   - `YAML` & `JSON`: configuration languages for `Go` applications
   - `Markdown`: explaining developed tools
 - :memo: **ides and editors**:
   - `Visual Studio Code`: programming, writing tool explanations and
     configurations
-  - `GIMP` ([scripts](https://github.com/EmilyGraceSeville7cf/tinyscheme-library-scripts))
-    & `Inkscape`: drawing images for developed tools
+  - `GIMP` & `Inkscape`: drawing images for developed tools
   - `OnlyOffice`: creating presentations about English and German
 - :clock130: **vcs-tools**:
   - `Git` & `GitHub`: managing tool development
