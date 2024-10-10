@@ -25,7 +25,8 @@ most interesting tools are mentioned and some of their usages are explained):
 
 - :computer: **programming, markup and configuration languages**:
   - `Fish` ([💬 community](https://matrix.to/#/#fish-shell:matrix.org) |
-    [🛠️ favorites](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)):
+    [🛠️ favorites](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)
+    | [🖊️ pull requests](https://github.com/fish-shell/fish-shell/pulls/EmilyGraceSeville7cf)):
     automating tasks for developed tools
   - `TinyScheme` ([💬 community](https://discord.gg/mVYFqQWf) | [🖊️ scripts](https://github.com/EmilyGraceSeville7cf/tinyscheme-library-scripts)):
     extending GIMP
