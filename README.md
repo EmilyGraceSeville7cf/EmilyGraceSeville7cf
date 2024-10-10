@@ -34,7 +34,8 @@ most interesting tools are mentioned and some of their usages are explained):
     developing CLI, TUI and GUI applications
   - `JavaScript` ([💬 community](https://discord.gg/nm6VFEp2) | [🛠️ tools](https://github.com/stars/EmilyGraceSeville7cf/lists/javascript-tools-use)):
     developing VS Code extensions and Web Apps
-  - `YAML` & `JSON`: configuration languages for `Go` applications
+  - `YAML` & `JSON` ([🖊️ pull requests](https://github.com/SchemaStore/schemastore/pulls/EmilyGraceSeville7cf)):
+    configuration languages for `Go` applications
   - `Markdown`: explaining developed tools
 - :memo: **ides and editors**:
   - `Visual Studio Code`: programming, writing tool explanations and
