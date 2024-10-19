@@ -5,6 +5,9 @@
 [![ubuntu](https://img.shields.io/badge/Ubuntu-cc4e0a?logo=ubuntu&logoColor=white)](https://discourse.ubuntu.com/u/emilygraceseville7cf/summary)
 [![gnome](https://img.shields.io/badge/Gnome%20DE-059c9e?logo=gnome&logoColor=white)](https://discourse.gnome.org/u/emilygraceseville7cf/summary)
 [![kde](https://img.shields.io/badge/KDE%20Plasma%20DE-05639e?logo=kde&logoColor=white)](https://discuss.kde.org/u/emilygraceseville7cf/summary)
+[![flathub](https://img.shields.io/badge/Flathub-ffffff?logo=flathub&logoColor=black)](https://discourse.flathub.org/u/emilygraceseville7cf/summary)
+[![lutris](https://img.shields.io/badge/Lutris-d17b0a?logo=lutris&logoColor=white)](https://forums.lutris.net/u/emilygraceseville7cf/summary)
+[![hugo](https://img.shields.io/badge/Hugo-eb1ca6?logo=hugo&logoColor=white)](https://discourse.gohugo.io/u/emilygraceseville7cf/summary)
 
 [![element](https://img.shields.io/badge/Element-@emilygraceseville7cf:matrix.org-0DBD8B?logo=element&labelColor=454545&logoColor=white)](https://github.com/EmilyGraceSeville7cf/EmilyGraceSeville7cf/blob/main/infos/no-profile-link-supported.md)
 [![wire](https://img.shields.io/badge/Wire-@emilygraceseville7cf-454545?logo=wire&labelColor=white&logoColor=black)](https://github.com/EmilyGraceSeville7cf/EmilyGraceSeville7cf/blob/main/infos/no-profile-link-supported.md)
