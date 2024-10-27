@@ -10,7 +10,6 @@
 [![hugo](https://img.shields.io/badge/Hugo-eb1ca6?logo=hugo&logoColor=white)](https://discourse.gohugo.io/u/emilygraceseville7cf/summary)
 
 [![element](https://img.shields.io/badge/Element-@emilygraceseville7cf:matrix.org-0DBD8B?logo=element&labelColor=454545&logoColor=white)](https://github.com/EmilyGraceSeville7cf/EmilyGraceSeville7cf/blob/main/infos/no-profile-link-supported.md)
-[![wire](https://img.shields.io/badge/Wire-@emilygraceseville7cf-454545?logo=wire&labelColor=white&logoColor=black)](https://github.com/EmilyGraceSeville7cf/EmilyGraceSeville7cf/blob/main/infos/no-profile-link-supported.md)
 [![bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/emilyseville7cf.bsky.social)
 
 ![whatsapp](https://img.shields.io/badge/+7%20999%20808%2009%2030-10B418?logo=whatsapp&logoColor=white)
@@ -18,8 +17,8 @@
 **Google Chat** messenger is the recommended way to contact me, while **Bluesky**
 to view my updates.
 
-> ❌ **Discord**, **Session** and **Signal** are not actively used as they are blocked in
-> Russia.
+> ❌ **Discord**, **Session**, **Signal** and **Wire** are not actively used as
+> they are blocked in Russia.
 
 </div>
 
