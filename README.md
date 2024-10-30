@@ -11,14 +11,16 @@
 
 [![element](https://img.shields.io/badge/Element-@emilygraceseville7cf:matrix.org-0DBD8B?logo=element&labelColor=454545&logoColor=white)](https://github.com/EmilyGraceSeville7cf/EmilyGraceSeville7cf/blob/main/infos/no-profile-link-supported.md)
 [![bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/emilyseville7cf.bsky.social)
+[![pinterest](https://img.shields.io/badge/Pinterest-e00b21?logo=pinterest&logoColor=white)](https://ca.pinterest.com/EmilyGraceSeville7cf/)
+[![facebook](https://img.shields.io/badge/Facebook-0b4ee0?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61567348637149)
+[![quora](https://img.shields.io/badge/Quora-c71a45?logo=quora&logoColor=white)](https://ca.pinterest.com/EmilyGraceSeville7cf/)
 
 ![whatsapp](https://img.shields.io/badge/+7%20999%20808%2009%2030-10B418?logo=whatsapp&logoColor=white)
 
 **Google Chat** messenger is the recommended way to contact me, while **Bluesky**
 to view my updates.
 
-> ❌ **Discord**, **Session**, **Signal** and **Wire** are not actively used as
-> they are blocked in Russia.
+> 🌴 **Facebook** and **Quora** are used through VPN and rarely.
 
 </div>
 
