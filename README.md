@@ -13,7 +13,7 @@
 [![bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/emilyseville7cf.bsky.social)
 [![pinterest](https://img.shields.io/badge/Pinterest-e00b21?logo=pinterest&logoColor=white)](https://ca.pinterest.com/EmilyGraceSeville7cf/)
 [![facebook](https://img.shields.io/badge/Facebook-0b4ee0?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61567348637149)
-[![quora](https://img.shields.io/badge/Quora-c71a45?logo=quora&logoColor=white)](https://ca.pinterest.com/EmilyGraceSeville7cf/)
+[![quora](https://img.shields.io/badge/Quora-c71a45?logo=quora&logoColor=white)](https://www.quora.com/profile/Unbelievable-Mystery?ch=3&oid=2302137716&share=e8798b79&srid=35tvcV&target_type=user)
 
 ![whatsapp](https://img.shields.io/badge/+7%20999%20808%2009%2030-10B418?logo=whatsapp&logoColor=white)
 
