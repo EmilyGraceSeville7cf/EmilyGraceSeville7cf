@@ -1,4 +1,4 @@
-# Unbelievable Mystery 💕 [🇺🇸](https://github.com/EmilyGraceSeville7cf/markdown-library-english) [🇮🇹](https://github.com/EmilyGraceSeville7cf/markdown-library-italian)
+# Unbelievable Mystery 💕 [`🇺🇸`](https://github.com/EmilyGraceSeville7cf/markdown-library-english) [`🇮🇹`](https://github.com/EmilyGraceSeville7cf/markdown-library-italian)
 
 <div align="center">
 
