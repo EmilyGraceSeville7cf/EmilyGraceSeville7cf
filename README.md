@@ -1,4 +1,4 @@
-# Unbelievable Mystery 💕 [`🇺🇸 English`](https://github.com/EmilyGraceSeville7cf/markdown-library-english) [`🇮🇹 Italian`](https://github.com/EmilyGraceSeville7cf/markdown-library-italian)
+# 💕 Unbelievable Mystery 💕 [`🇺🇸 English`](https://github.com/EmilyGraceSeville7cf/markdown-library-english) [`🇮🇹 Italian`](https://github.com/EmilyGraceSeville7cf/markdown-library-italian)
 
 <div align="center">
 
@@ -24,42 +24,59 @@ to view my updates.
 
 </div>
 
-## About me
+## 📖 About me
 
 I am open source contributor and I am keen on administrating, scripting,
 creating sites and presentations. It’s my life. I like to automate routine tasks
-and not to do them manually. Currently I have the following skills (just the
-most interesting tools are mentioned and some of their usages are explained):
+and not to do them manually. Currently I have the skills mentioned below (just
+the most interesting tools are mentioned and some of their usages are explained).
 
-- :computer: **programming, markup and configuration languages**:
+### :computer: Programming, markup and configuration languages
+
+- :hammer_and_wrench: Developing CLI, TUI and GUI applications, automating tasks
+  for developed tools:
+  - `Go` ([`💬`][go_community]
+[`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/go-tools-use))
   - `Fish` ([`💬`][fish_community]
-  [`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)
-  [`📦`](https://github.com/fish-shell/fish-shell/pulls/EmilyGraceSeville7cf))
-    & `✅ Go` ([`💬`][go_community]
-  [`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/go-tools-use)):
-    developing CLI, TUI and GUI applications, automating tasks for developed tools
-  - `JavaScript` ([`💬`][javascript_community]
-    [`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/javascript-tools-use)):
-    developing VS Code extensions and Web Apps
-  - `✅ YAML` & `JSON` ([`📦`](https://github.com/SchemaStore/schemastore/pulls/EmilyGraceSeville7cf)):
-    configuration languages for `Go` applications
-  - `Markdown`: explaining developed tools
-- :memo: **ides and editors**:
-  - `Visual Studio Code` ([`💬`][vscode_community]): programming, writing tool explanations and
-    configurations
-  - `GIMP` ([`💬`][gimp_community]) & `✅ Inkscape` ([`💬`][inkscape_community]):
-    drawing images for developed tools
-  - `Google Slides` ([`💬`][slides_community]) & `✅ OnlyOffice`
-    ([`💬`][onlyoffice_communiy]) & `Microsoft PowerPoint` ([`💬`][powerpoint_community]):
-    creating presentations
-- :clock130: **vcs-tools**:
-  - `Git` & `GitHub`: managing tool development
+[`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)
+[`📦`](https://github.com/fish-shell/fish-shell/pulls/EmilyGraceSeville7cf))
 
-Legend:
+- :hammer_and_wrench: Developing VS Code extensions and Web Apps:
+  - `JavaScript` ([`💬`][javascript_community]
+  [`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/javascript-tools-use))
+
+- :hammer_and_wrench: configuration languages for applications:
+  - `YAML`
+  - `JSON` ([`📦`](https://github.com/SchemaStore/schemastore/pulls/EmilyGraceSeville7cf))
+
+- :hammer_and_wrench: Explaining developed tools:
+  - `Markdown`
+
+### :memo: IDEs and editors
+
+- :hammer_and_wrench: Programming, writing tool explanations and
+  configurations:
+  - `Visual Studio Code` ([`💬`][vscode_community])
+
+- :hammer_and_wrench: Drawing images for developed tools:
+  - `Inkscape` ([`💬`][inkscape_community])
+  - `GIMP` ([`💬`][gimp_community])
+  
+- :hammer_and_wrench: Creating presentations:
+  - `OnlyOffice` ([`💬`][onlyoffice_communiy])
+  - `Google Slides` ([`💬`][slides_community])
+  - `Microsoft PowerPoint` ([`💬`][powerpoint_community]):
+
+### :clock130: VCS-tools
+
+- :hammer_and_wrench: Managing tool development:
+  - `Git`
+  - `GitHub`
+
+### :bookmark_tabs: Legend
 
 - `💬`: community
 - `⭐`: favorite tools
-- `✅`: primary tool among others on the same line
 - `📦`: pull requests
 - `🖊️`: personal scripts
 
@@ -79,7 +96,7 @@ Legend:
 
 </div>
 
-## Placeholder syntax in my CLI tools 📖
+## :notebook: Placeholder syntax in my CLI tools
 
 Starting from 21 August 2024 I use the following placeholder syntax in all my
 tools ([Go-inspired](https://pkg.go.dev/text/template)):
