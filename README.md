@@ -65,7 +65,7 @@ the most interesting tools are mentioned and some of their usages are explained)
 - :hammer_and_wrench: Creating presentations:
   - `OnlyOffice` ([`💬`][onlyoffice_communiy])
   - `Google Slides` ([`💬`][slides_community])
-  - `Microsoft PowerPoint` ([`💬`][powerpoint_community]):
+  - `Microsoft PowerPoint` ([`💬`][powerpoint_community])
 
 ### :clock130: VCS-tools
 
