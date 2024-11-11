@@ -34,26 +34,23 @@ most interesting tools are mentioned and some of their usages are explained):
 - :computer: **programming, markup and configuration languages**:
   - `Fish` ([`💬`][fish_community]
   [`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)
-  [`📦`](https://github.com/fish-shell/fish-shell/pulls/EmilyGraceSeville7cf)):
-    automating tasks for developed tools
-  - `TinyScheme` ([`💬`][gimp_community]
-  [`🖊️`](https://github.com/EmilyGraceSeville7cf/tinyscheme-library-scripts)):
-    extending GIMP
-  - `Go` ([`💬`][go_community]
+  [`📦`](https://github.com/fish-shell/fish-shell/pulls/EmilyGraceSeville7cf))
+    & `✅ Go` ([`💬`][go_community]
   [`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/go-tools-use)):
-    developing CLI, TUI and GUI applications
+    developing CLI, TUI and GUI applications, automating tasks for developed tools
   - `JavaScript` ([`💬`][javascript_community]
     [`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/javascript-tools-use)):
     developing VS Code extensions and Web Apps
-  - `YAML` & `JSON` ([`📦`](https://github.com/SchemaStore/schemastore/pulls/EmilyGraceSeville7cf)):
+  - `✅ YAML` & `JSON` ([`📦`](https://github.com/SchemaStore/schemastore/pulls/EmilyGraceSeville7cf)):
     configuration languages for `Go` applications
   - `Markdown`: explaining developed tools
 - :memo: **ides and editors**:
   - `Visual Studio Code` ([`💬`][vscode_community]): programming, writing tool explanations and
     configurations
-  - `GIMP` ([`💬`][gimp_community]) & `Inkscape` ([`💬`][inkscape_community]):
+  - `GIMP` ([`💬`][gimp_community]) & `✅ Inkscape` ([`💬`][inkscape_community]):
     drawing images for developed tools
-  - `Google Slides` ([`💬`][slides_community]) & `Microsoft PowerPoint` ([`💬`][powerpoint_community]):
+  - `Google Slides` ([`💬`][slides_community]) & `✅ OnlyOffice`
+    ([`💬`][onlyoffice_communiy]) & `Microsoft PowerPoint` ([`💬`][powerpoint_community]):
     creating presentations
 - :clock130: **vcs-tools**:
   - `Git` & `GitHub`: managing tool development
@@ -62,6 +59,7 @@ Legend:
 
 - `💬`: community
 - `⭐`: favorite tools
+- `✅`: primary tool among others on the same line
 - `📦`: pull requests
 - `🖊️`: personal scripts
 
@@ -72,6 +70,7 @@ Legend:
 [inkscape_community]: https://inkscape.org/forums/
 [vscode_community]: https://github.com/microsoft/vscode-discussions/discussions
 [slides_community]: https://support.google.com/docs/threads?hl=en&thread_filter=(category:docs_slides)&sjid=18016765158418257400-EU
+[onlyoffice_communiy]: https://forum.onlyoffice.com/
 [powerpoint_community]: https://answers.microsoft.com/en-us/
 
 <div align="center">
