@@ -33,19 +33,25 @@ the most interesting tools are mentioned and some of their usages are explained)
 
 ### :computer: Programming, markup and configuration languages
 
-- :hammer_and_wrench: Developing CLI, TUI and GUI applications, automating tasks
-  for developed tools:
+- :hammer_and_wrench: Developing **CLI**, **TUI** and **GUI** applications, automating
+  tasks for developed tools:
   - `Go` ([`💬`][go_community]
 [`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/go-tools-use))
   - `Fish` ([`💬`][fish_community]
 [`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)
 [`📦`](https://github.com/fish-shell/fish-shell/pulls/EmilyGraceSeville7cf))
 
-- :hammer_and_wrench: Developing VS Code extensions and Web Apps:
-  - `JavaScript` ([`💬`][javascript_community]
-  [`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/javascript-tools-use))
+  > :fire: Frequently used.
 
-- :hammer_and_wrench: configuration languages for applications:
+- :hammer_and_wrench: Developing macros and libraries:
+  - `JavaScript` ([`💬`][javascript_community])
+  - `TinyScheme` ([`💬`][gimp_community]
+  [`🖊️`](https://github.com/EmilyGraceSeville7cf/tinyscheme-library-scripts))
+  - `VBA` ([`💬`][powerpoint_community])
+  
+  > :x: Rarely used.
+
+- :hammer_and_wrench: Configuration languages for applications:
   - `YAML`
   - `JSON` ([`📦`](https://github.com/SchemaStore/schemastore/pulls/EmilyGraceSeville7cf))
 
