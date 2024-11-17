@@ -47,7 +47,6 @@ the most interesting tools are mentioned and some of their usages are explained)
   - `JavaScript` ([`💬`][javascript_community])
   - `TinyScheme` ([`💬`][gimp_community]
   [`🖊️`](https://github.com/EmilyGraceSeville7cf/tinyscheme-library-scripts))
-  - `VBA` ([`💬`][powerpoint_community])
   
   > :x: Rarely used.
 
@@ -55,7 +54,7 @@ the most interesting tools are mentioned and some of their usages are explained)
   - `YAML`
   - `JSON` ([`📦`](https://github.com/SchemaStore/schemastore/pulls/EmilyGraceSeville7cf))
 
-- :hammer_and_wrench: Explaining developed tools:
+- :hammer_and_wrench: Documenting developed tools:
   - `Markdown`
 
 ### :memo: IDEs and editors
@@ -67,11 +66,14 @@ the most interesting tools are mentioned and some of their usages are explained)
 - :hammer_and_wrench: Drawing images for developed tools:
   - `Inkscape` ([`💬`][inkscape_community])
   - `GIMP` ([`💬`][gimp_community])
+  - `VectorMotion` (`vectormotion.team@gmail.com`) :arrow_left: used on mobile
   
-- :hammer_and_wrench: Creating presentations:
+- :hammer_and_wrench: Creating presentations and videos:
   - `OnlyOffice` ([`💬`][onlyoffice_communiy])
-  - `Google Slides` ([`💬`][slides_community])
+  - `Google Slides` ([`💬`][slides_community]) :arrow_left: used on mobile *too*
   - `Microsoft PowerPoint` ([`💬`][powerpoint_community])
+  - `Shotcut` ([`💬`][shotcut_community])
+  - `Vita` (`dl_vita_support@snowcorp.com`) :arrow_left: used on mobile
 
 ### :clock130: VCS-tools
 
@@ -95,6 +97,7 @@ the most interesting tools are mentioned and some of their usages are explained)
 [slides_community]: https://support.google.com/docs/threads?hl=en&thread_filter=(category:docs_slides)&sjid=18016765158418257400-EU
 [onlyoffice_communiy]: https://forum.onlyoffice.com/
 [powerpoint_community]: https://answers.microsoft.com/en-us/
+[shotcut_community]: https://forum.shotcut.org/
 
 <div align="center">
 
