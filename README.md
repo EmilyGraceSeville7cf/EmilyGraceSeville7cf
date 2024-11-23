@@ -31,6 +31,13 @@ creating sites and presentations. It’s my life. I like to automate routine tas
 and not to do them manually. Currently I have the skills mentioned below (just
 the most interesting tools are mentioned and some of their usages are explained).
 
+<div align="center">
+
+![girlfriend](https://img.shields.io/badge/💓%20Girlfriend-Lana%20🥰-eb3489?labelColor=000000)
+![girlfriend_mother](https://img.shields.io/badge/💓%20Girlfriend%20mother-Viktoria%20🥰-eb3489?labelColor=000000)
+
+</div>
+
 ### :computer: Programming, markup and configuration languages
 
 - :hammer_and_wrench: Developing **CLI**, **TUI** and **GUI** applications, automating
