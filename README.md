@@ -40,29 +40,42 @@ the most interesting tools are mentioned and some of their usages are explained)
 
 ### :computer: Programming, markup and configuration languages
 
-- :hammer_and_wrench: Developing **CLI**, **TUI** and **GUI** applications, automating
-  tasks for developed tools:
-  - `Go` ([`💬`][go_community]
-[`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/go-tools-use))
-  - `Fish` ([`💬`][fish_community]
-[`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)
-[`📦`](https://github.com/fish-shell/fish-shell/pulls/EmilyGraceSeville7cf))
+#### :hammer_and_wrench: Developing **CLI**, **TUI** and **GUI** applications
 
-  > :fire: Frequently used.
+These languages are used to build applications or libraries which **should not**
+be run inside some editor like GIMP or Google Slides.
 
-- :hammer_and_wrench: Developing macros and libraries:
-  - `JavaScript` ([`💬`][javascript_community])
-  - `TinyScheme` ([`💬`][gimp_community]
-  [`🖊️`](https://github.com/EmilyGraceSeville7cf/tinyscheme-library-scripts))
-  
-  > :x: Rarely used.
+| Language | Links                                                                                                                                                              | How often do I use it? |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| `Go`     | [`💬`][go_community][`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/go-tools-use)                                                                         | 5/5                    |
+| `Fish`   | [`💬`][fish_community][`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)[`📦`](https://github.com/fish-shell/fish-shell/pulls/EmilyGraceSeville7cf) | 4/5                    |
 
-- :hammer_and_wrench: Configuration languages for applications:
-  - `YAML`
-  - `JSON` ([`📦`](https://github.com/SchemaStore/schemastore/pulls/EmilyGraceSeville7cf))
+#### :hammer_and_wrench: Developing macros and libraries
 
-- :hammer_and_wrench: Documenting developed tools:
-  - `Markdown`
+These languages are used to build scripts or libraries which **should**
+be run inside some editor like GIMP or Google Slides.
+
+| Language     | Links                                                                                          | How often do I use it? |
+| ------------ | ---------------------------------------------------------------------------------------------- | ---------------------- |
+| `JavaScript` | [`💬`][javascript_community]                                                                    | 2/5                    |
+| `TinyScheme` | [`💬`][gimp_community][`🖊️`](https://github.com/EmilyGraceSeville7cf/tinyscheme-library-scripts) | 1/5                    |
+
+#### :hammer_and_wrench: Configuration languages for applications
+
+These languages are used to build configurations for applications or libraries.
+
+| Language | Links                                                                        | How often do I use it? |
+| -------- | ---------------------------------------------------------------------------- | ---------------------- |
+| `YAML`   |                                                                              | 5/5                    |
+| `JSON`   | [`📦`](https://github.com/SchemaStore/schemastore/pulls/EmilyGraceSeville7cf) | 4/5                    |
+
+#### :hammer_and_wrench: Documenting developed tools
+
+These languages are used to document everything mentioned above.
+
+| Language   | Links | How often do I use it? |
+| ---------- | ----- | ---------------------- |
+| `Markdown` |       | 5/5                    |
 
 ### :memo: IDEs and editors
 
