@@ -100,6 +100,14 @@ These languages are used to document everything mentioned above.
   - `Shotcut` ([`💬`][shotcut_community])
   - `Vita` (`dl_vita_support@snowcorp.com`) :arrow_left: used on mobile
 
+<div align="center">
+
+:white_check_mark: Do you wanna try all in one web-editor suite for images, PDFs and videos alongside
+not overwhelming yourself with a lot of functionality? Try [photo-editor.com][web_editors],
+and if you have any questions head to their [forum][web_editors_community].
+
+</div>
+
 ### :clock130: VCS-tools
 
 - :hammer_and_wrench: Managing tool development:
@@ -123,6 +131,8 @@ These languages are used to document everything mentioned above.
 [onlyoffice_communiy]: https://forum.onlyoffice.com/
 [powerpoint_community]: https://answers.microsoft.com/en-us/
 [shotcut_community]: https://forum.shotcut.org/
+[web_editors]: https://www.photoeditor.com/
+[web_editors_community]: https://tools.zygomatic.com/
 
 <div align="center">
 
