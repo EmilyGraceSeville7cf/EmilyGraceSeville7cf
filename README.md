@@ -40,6 +40,9 @@ the most interesting tools are mentioned and some of their usages are explained)
 
 ### :computer: Programming, markup and configuration languages
 
+All code is mainly written in `Visual Studio Code` ([`💬`][vscode_community]),
+versioned by `Git` VCS and located here.
+
 #### :hammer_and_wrench: Developing **CLI**, **TUI** and **GUI** applications
 
 These languages are used to build applications or libraries which **should not**
@@ -82,23 +85,40 @@ These languages are used to document everything mentioned above.
 | ---------- | ----------------- | ---------------------- |
 | `Markdown` | ❌ *not available* | 5/5                    |
 
-### :memo: IDEs and editors
+### :memo: Other editors
 
-- :hammer_and_wrench: Programming, writing tool explanations and
-  configurations:
-  - `Visual Studio Code` ([`💬`][vscode_community])
+#### :hammer_and_wrench: Vector image drawing and animating them
 
-- :hammer_and_wrench: Drawing images for developed tools:
-  - `Inkscape` ([`💬`][inkscape_community])
-  - `GIMP` ([`💬`][gimp_community])
-  - `VectorMotion` (`vectormotion.team@gmail.com`) :arrow_left: used on mobile
-  
-- :hammer_and_wrench: Creating presentations and videos:
-  - `OnlyOffice` ([`💬`][onlyoffice_communiy])
-  - `Google Slides` ([`💬`][slides_community]) :arrow_left: used on mobile *too*
-  - `Microsoft PowerPoint` ([`💬`][powerpoint_community])
-  - `Shotcut` ([`💬`][shotcut_community])
-  - `Vita` (`dl_vita_support@snowcorp.com`) :arrow_left: used on mobile
+First two tools I utilize on my laptop, the last one is used solely on mobile
+devices as simple but all-in-one program for drawing and animation.
+
+| Language       | Links                         | How often do I use it? |
+| -------------- | ----------------------------- | ---------------------- |
+| `Inkscape`     | [`💬`][inkscape_community]     | 5/5                    |
+| `Glaxnimate`   | ❌ *not available*             | 5/5                    |
+| `VectorMotion` | `vectormotion.team@gmail.com` | 3/5                    |
+
+#### :hammer_and_wrench: Creating presentations
+
+Primarily I accomplish my tasks with first two tools depending on their
+complexity. The last one is used on my working machine when first two tools
+are not enough.
+
+| Language               | Links                       | How often do I use it? |
+| ---------------------- | --------------------------- | ---------------------- |
+| `OnlyOffice`           | [`💬`][onlyoffice_communiy]  | 5/5                    |
+| `Google Slides`        | [`💬`][slides_community]     | 5/5                    |
+| `Microsoft PowerPoint` | [`💬`][powerpoint_community] | 3/5                    |
+
+#### :hammer_and_wrench: Creating videos
+
+I make videos quite rarely, but when I do I utilize this programs, the first
+one on my laptop and the second one on my mobile devices.
+
+| Language   | Links                          | How often do I use it? |
+| ---------- | ------------------------------ | ---------------------- |
+| `Kdenlive` | [`💬`][kdenlive_community]       | 3/5                    |
+| `Vita`     | `dl_vita_support@snowcorp.com` | 3/5                    |
 
 <div align="center">
 
@@ -107,12 +127,6 @@ not overwhelming yourself with a lot of functionality? Try [photo-editor.com][we
 and if you have any questions head to their [forum][web_editors_community].
 
 </div>
-
-### :clock130: VCS-tools
-
-- :hammer_and_wrench: Managing tool development:
-  - `Git`
-  - `GitHub`
 
 ### :bookmark_tabs: Legend
 
@@ -130,7 +144,7 @@ and if you have any questions head to their [forum][web_editors_community].
 [slides_community]: https://support.google.com/docs/threads?hl=en&thread_filter=(category:docs_slides)&sjid=18016765158418257400-EU
 [onlyoffice_communiy]: https://forum.onlyoffice.com/
 [powerpoint_community]: https://answers.microsoft.com/en-us/
-[shotcut_community]: https://forum.shotcut.org/
+[kdenlive_community]: https://discuss.kde.org/tag/kdenlive
 [web_editors]: https://www.photoeditor.com/
 [web_editors_community]: https://tools.zygomatic.com/
 
