@@ -1,4 +1,4 @@
-# 💕 Unbelievable Mystery 💕 [`🇺🇸 English`](https://github.com/EmilyGraceSeville7cf/markdown-library-english) [`🇮🇹 Italian`](https://github.com/EmilyGraceSeville7cf/markdown-library-italian)
+# 💕 Emily Grace Seville 💕 [`🇺🇸 English`](https://github.com/EmilyGraceSeville7cf/markdown-library-english) [`🇮🇹 Italian`](https://github.com/EmilyGraceSeville7cf/markdown-library-italian)
 
 <div align="center">
 
@@ -45,20 +45,20 @@ versioned by `Git` VCS and located here.
 
 #### :hammer_and_wrench: Developing **CLI**, **TUI** and **GUI** applications
 
-These languages are used to build applications or libraries which **should not**
-be run inside some editor like GIMP or Google Slides. I'm mainly focused on
-these programming languages and know them better than others, my knowledge is
-validated by other contributors.
+These languages are used to build standalone applications or libraries which
+**should not** be run inside some editor like GIMP or Google Slides. I'm mainly
+focused on these programming languages and know them better than others, my
+knowledge is validated by other contributors.
 
 | Language | Links                                                                                                                                                              | How often do I use it? |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| -------- | ------------------quest------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
 | `Go`     | [`💬`][go_community][`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/go-tools-use)                                                                         | 5/5                    |
 | `Fish`   | [`💬`][fish_community][`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)[`📦`](https://github.com/fish-shell/fish-shell/pulls/EmilyGraceSeville7cf) | 4/5                    |
 
 #### :hammer_and_wrench: Developing macros and libraries
 
-These languages are used to build scripts or libraries which **should**
-be run inside some editor like GIMP or Google Slides. As I utilize these
+These languages are utilized to build scripts or libraries which **must**
+be run inside some editor like GIMP or Google Slides. As I use these
 languages quite rarely I may not know them so well as previous ones and thus
 don't contribute to any projects where these languages are the primary ones.
 
@@ -69,7 +69,7 @@ don't contribute to any projects where these languages are the primary ones.
 
 #### :hammer_and_wrench: Configuration languages for applications
 
-These languages are used to build configurations for applications or libraries.
+These languages are used to make configurations for applications or libraries.
 I mainly use them for `Go` and other languages in the same category.
 
 | Language | Links                                                                        | How often do I use it? |
@@ -122,7 +122,7 @@ one on my laptop and the second one on my mobile devices.
 
 <div align="center">
 
-:white_check_mark: Do you wanna try all in one web-editor suite for images, PDFs and videos alongside
+> :white_check_mark: Do you wanna try all in one web-editor suite for images, PDFs and videos alongside
 not overwhelming yourself with a lot of functionality? Try [photo-editor.com][web_editors],
 and if you have any questions head to their [forum][web_editors_community].
 
