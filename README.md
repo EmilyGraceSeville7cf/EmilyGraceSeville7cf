@@ -51,7 +51,7 @@ focused on these programming languages and know them better than others, my
 knowledge is validated by other contributors.
 
 | Language | Links                                                                                                                                                              | How often do I use it? |
-| -------- | ------------------quest------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
 | `Go`     | [`💬`][go_community][`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/go-tools-use)                                                                         | 5/5                    |
 | `Fish`   | [`💬`][fish_community][`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)[`📦`](https://github.com/fish-shell/fish-shell/pulls/EmilyGraceSeville7cf) | 4/5                    |
 
