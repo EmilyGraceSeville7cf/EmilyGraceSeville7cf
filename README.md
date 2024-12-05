@@ -43,7 +43,9 @@ the most interesting tools are mentioned and some of their usages are explained)
 #### :hammer_and_wrench: Developing **CLI**, **TUI** and **GUI** applications
 
 These languages are used to build applications or libraries which **should not**
-be run inside some editor like GIMP or Google Slides.
+be run inside some editor like GIMP or Google Slides. I'm mainly focused on
+these programming languages and know them better than others, my knowledge is
+validated by other contributors.
 
 | Language | Links                                                                                                                                                              | How often do I use it? |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
@@ -53,7 +55,9 @@ be run inside some editor like GIMP or Google Slides.
 #### :hammer_and_wrench: Developing macros and libraries
 
 These languages are used to build scripts or libraries which **should**
-be run inside some editor like GIMP or Google Slides.
+be run inside some editor like GIMP or Google Slides. As I utilize these
+languages quite rarely I may not know them so well as previous ones and thus
+don't contribute to any projects where these languages are the primary ones.
 
 | Language     | Links                                                                                          | How often do I use it? |
 | ------------ | ---------------------------------------------------------------------------------------------- | ---------------------- |
@@ -63,19 +67,20 @@ be run inside some editor like GIMP or Google Slides.
 #### :hammer_and_wrench: Configuration languages for applications
 
 These languages are used to build configurations for applications or libraries.
+I mainly use them for `Go` and other languages in the same category.
 
 | Language | Links                                                                        | How often do I use it? |
 | -------- | ---------------------------------------------------------------------------- | ---------------------- |
-| `YAML`   |                                                                              | 5/5                    |
+| `YAML`   | ❌ *not available*                                                            | 5/5                    |
 | `JSON`   | [`📦`](https://github.com/SchemaStore/schemastore/pulls/EmilyGraceSeville7cf) | 4/5                    |
 
 #### :hammer_and_wrench: Documenting developed tools
 
 These languages are used to document everything mentioned above.
 
-| Language   | Links | How often do I use it? |
-| ---------- | ----- | ---------------------- |
-| `Markdown` |       | 5/5                    |
+| Language   | Links             | How often do I use it? |
+| ---------- | ----------------- | ---------------------- |
+| `Markdown` | ❌ *not available* | 5/5                    |
 
 ### :memo: IDEs and editors
 
