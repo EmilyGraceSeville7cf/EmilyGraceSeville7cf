@@ -131,8 +131,7 @@ with less features like VectorMotion does.
 Primarily I utilize PowerPoint program for editing presentations, however
 when it's faster to modify existing Google Slides presentation without porting it
 to aforementioned tool, I use Google Slides. The last one is used
-on my own machine dedicated mainly for programming when the access
-to my girlfriend's laptop is not possible.
+on my own machine dedicated mainly for programming.
 
 > :thought_balloon: I would love to use OnlyOffice instead of PowerPoint as it's more
 cross-platform than PowerPoint, however on Linux the aforementioned one
