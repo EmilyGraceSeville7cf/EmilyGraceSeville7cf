@@ -103,18 +103,28 @@ These languages are used to document everything mentioned above.
 
 #### :hammer_and_wrench: Vector image drawing and animating them
 
-First two tools I utilize on my laptop, the last one is used solely on mobile
-devices as simple but all-in-one program for drawing and animation.
+Currently I'm transferring from Google Slides to Inkscape. For animating something
+I'm planning to use Glaxnimate as it seems a robust choice for me. On mobile devices
+I use all-in-one solution which is VectorMotion.
+
+> :thought_balloon: Likely it would be nice to have one program for drawing vector graphics
+and animating it. However, maybe it's the best case when there are separate tools for
+specific tasks as they focused more on what they are doing instead providing more things
+with less features like VectorMotion does.
 
 <div align="center">
 
 | Language       | Links                         | How often do I use it? |
 | -------------- | ----------------------------- | ---------------------- |
-| `Inkscape`     | [`💬`][inkscape_community]     | 5/5                    |
-| `Glaxnimate`   | ❌ *not available*             | 5/5                    |
+| `Inkscape`     | [`💬`][inkscape_community]     | 2/5                    |
+| `Glaxnimate`   | ❌ *not available*             | 1/5                    |
 | `VectorMotion` | `vectormotion.team@gmail.com` | 3/5                    |
 
 </div>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1f650aec-4d1c-43c8-9b42-52cda83cc8a2" alt="Office programs icons" height="100px"/>
+</p>
 
 #### :hammer_and_wrench: Creating presentations
 
