@@ -114,11 +114,11 @@ with less features like VectorMotion does.
 
 <div align="center">
 
-| Language       | Links                         | How often do I use it? |
-| -------------- | ----------------------------- | ---------------------- |
-| `Inkscape`     | [`💬`][inkscape_community]     | 2/5                    |
-| `Glaxnimate`   | ❌ *not available*             | 1/5                    |
-| `VectorMotion` | `vectormotion.team@gmail.com` | 3/5                    |
+| Language       | Links                         | How often do I use it? | Where do I use it? | Do I teach it? |
+| -------------- | ----------------------------- | ---------------------- | ---------------------- | ---------------------- |
+| `Inkscape`     | [`💬`][inkscape_community]     | 2/5                    | **desktop**           | :x:                    |
+| `Glaxnimate`   | ❌ *not available*             | 1/5                    | **desktop**           | :x:                    |
+| `VectorMotion` | `vectormotion.team@gmail.com` | 3/5                    | **mobile**           | :x:                    |
 
 </div>
 
