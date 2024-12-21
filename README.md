@@ -119,16 +119,22 @@ devices as simple but all-in-one program for drawing and animation.
 #### :hammer_and_wrench: Creating presentations
 
 Primarily I accomplish my tasks with first two tools depending on their
-complexity. The last one is used on my own machine dedicated mainly
-for programming when the access to my girlfriend's laptop is not possible.
+complexity but I tend to use PowerPoint mainly. The last one is used
+on my own machine dedicated mainly for programming when the access
+to my girlfriend's laptop is not possible.
+
+> I would love to use OnlyOffice instead of PowerPoint as it's more
+cross-platform than PowerPoint, however on Linux the aforementioned one
+is unstable. And besides the a claimed compatibility with PowerPoint
+presentations made in OnlyOffice may not always be rendered correctly in PowerPoint.
 
 <div align="center">
 
 | Language               | Links                       | How often do I use it? | Where do I use it? | Do I teach it? |
 | ---------------------- | --------------------------- | ---------------------- | --------------- | --------------- |
-| `Microsoft PowerPoint` | [`💬`][powerpoint_community] | 5/5                    | desktop | :heavy_check_mark:            |
-| `Google Slides`        | [`💬`][slides_community]     | 4/5                    | mobile | :heavy_check_mark:            |
-| `OnlyOffice`           | [`💬`][onlyoffice_communiy]  | 1/5                    | desktop | :x:             |
+| `Microsoft PowerPoint` | [`💬`][powerpoint_community] | 5/5                    | **desktop**, mobile | :heavy_check_mark:            |
+| `Google Slides`        | [`💬`][slides_community]     | 4/5                    | **desktop**, mobile | :heavy_check_mark:            |
+| `OnlyOffice`           | [`💬`][onlyoffice_communiy]  | 1/5                    | **desktop** | :x:             |
 
 </div>
 
@@ -140,15 +146,19 @@ for programming when the access to my girlfriend's laptop is not possible.
 
 #### :hammer_and_wrench: Creating videos
 
-I make videos quite rarely, but when I do I utilize this programs, the first
-one on my laptop and the second one on my mobile devices.
+I make videos quite rarely, so there is almost nothing I can tell you
+about video editors. But when I do I utilize this programs
+the first one on my laptop and the second one on my mobile devices.
+
+> If Kdenlive worked on mobile devices I would rather use it instead of
+mastering several editors (well, learning them, mastering is quiet bold term here).
 
 <div align="center">
 
-| Language   | Links                          | How often do I use it? | Do I teach it? |
-| ---------- | ------------------------------ | ---------------------- | --------------- |
-| `Kdenlive` | [`💬`][kdenlive_community]       | 5/5                    | :x:             |
-| `Vita`     | `dl_vita_support@snowcorp.com` | 2/5                    | :x:             |
+| Language   | Links                          | How often do I use it? | Where do I use it? | Do I teach it? |
+| ---------- | ------------------------------ | ---------------------- | --------------- | --------------- |
+| `Kdenlive` | [`💬`][kdenlive_community]       | 5/5                    | **desktop** | :x:             |
+| `Vita`     | `dl_vita_support@snowcorp.com` | 2/5                    | **mobile** | :x:             |
 
 </div>
 
