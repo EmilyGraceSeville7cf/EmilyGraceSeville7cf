@@ -119,18 +119,24 @@ devices as simple but all-in-one program for drawing and animation.
 #### :hammer_and_wrench: Creating presentations
 
 Primarily I accomplish my tasks with first two tools depending on their
-complexity. The last one is used on my working machine when first two tools
-are not enough.
+complexity. The last one is used on my own machine dedicated mainly
+for programming when the access to my girlfriend's laptop is not possible.
 
 <div align="center">
 
-| Language               | Links                       | How often do I use it? |
-| ---------------------- | --------------------------- | ---------------------- |
-| `OnlyOffice`           | [`💬`][onlyoffice_communiy]  | 5/5                    |
-| `Google Slides`        | [`💬`][slides_community]     | 5/5                    |
-| `Microsoft PowerPoint` | [`💬`][powerpoint_community] | 3/5                    |
+| Language               | Links                       | How often do I use it? | Where do I use it? | Do I teach it? |
+| ---------------------- | --------------------------- | ---------------------- | --------------- | --------------- |
+| `Microsoft PowerPoint` | [`💬`][powerpoint_community] | 5/5                    | desktop | :heavy_check_mark:            |
+| `Google Slides`        | [`💬`][slides_community]     | 4/5                    | mobile | :heavy_check_mark:            |
+| `OnlyOffice`           | [`💬`][onlyoffice_communiy]  | 1/5                    | desktop | :x:             |
 
 </div>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9859c270-4dcc-41fc-b7ba-91b4cfc56021" alt="Office programs icons" height="100px"/>
+</p>
+
+[`👁️ Some of my presentations`](https://github.com/EmilyGraceSeville7cf/presentations)`
 
 #### :hammer_and_wrench: Creating videos
 
@@ -139,12 +145,18 @@ one on my laptop and the second one on my mobile devices.
 
 <div align="center">
 
-| Language   | Links                          | How often do I use it? |
-| ---------- | ------------------------------ | ---------------------- |
-| `Kdenlive` | [`💬`][kdenlive_community]       | 3/5                    |
-| `Vita`     | `dl_vita_support@snowcorp.com` | 3/5                    |
+| Language   | Links                          | How often do I use it? | Do I teach it? |
+| ---------- | ------------------------------ | ---------------------- | --------------- |
+| `Kdenlive` | [`💬`][kdenlive_community]       | 5/5                    | :x:             |
+| `Vita`     | `dl_vita_support@snowcorp.com` | 2/5                    | :x:             |
 
 </div>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4bc14028-dbda-4796-a290-8f8855fc7116" alt=Video editor programs icons" height="100px"/>
+</p>
+
+`👁️ Videos are not uploaded to GitHub yet`
 
 <div align="center">
 
