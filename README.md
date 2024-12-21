@@ -31,12 +31,10 @@ creating sites and presentations. It’s my life. I like to automate routine tas
 and not to do them manually. Currently I have the skills mentioned below (just
 the most interesting tools are mentioned and some of their usages are explained).
 
-<div align="center">
-
-![girlfriend](https://img.shields.io/badge/💓%20Girlfriend-Lana%20🥰-eb3489?labelColor=000000)
-![girlfriend_mother](https://img.shields.io/badge/💓%20Girlfriend%20mother-Viktoria%20🥰-eb3489?labelColor=000000)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/💓%20Girlfriend-Lana%20🥰-eb3489?labelColor=000000" alt="Girlfriend name"/>
+  <img src="https://img.shields.io/badge/💓%20Girlfriend%20mother-Viktoria%20🥰-eb3489?labelColor=000000" alt="Girlfriend mother name"/>
+</p>
 
 ### :computer: Programming, markup and configuration languages
 
@@ -50,10 +48,14 @@ These languages are used to build standalone applications or libraries which
 focused on these programming languages and know them better than others, my
 knowledge is validated by other contributors.
 
+<div align="center">
+  
 | Language | Links                                                                                                                                                              | How often do I use it? |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
 | `Go`     | [`💬`][go_community][`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/go-tools-use)                                                                         | 5/5                    |
 | `Fish`   | [`💬`][fish_community][`⭐`](https://github.com/stars/EmilyGraceSeville7cf/lists/fish-use)[`📦`](https://github.com/fish-shell/fish-shell/pulls/EmilyGraceSeville7cf) | 4/5                    |
+
+</div>
 
 #### :hammer_and_wrench: Developing macros and libraries
 
@@ -62,28 +64,40 @@ be run inside some editor like GIMP or Google Slides. As I use these
 languages quite rarely I may not know them so well as previous ones and thus
 don't contribute to any projects where these languages are the primary ones.
 
+<div align="center">
+  
 | Language     | Links                                                                                          | How often do I use it? |
 | ------------ | ---------------------------------------------------------------------------------------------- | ---------------------- |
 | `JavaScript` | [`💬`][javascript_community]                                                                    | 2/5                    |
 | `TinyScheme` | [`💬`][gimp_community][`🖊️`](https://github.com/EmilyGraceSeville7cf/tinyscheme-library-scripts) | 1/5                    |
+
+</div>
 
 #### :hammer_and_wrench: Configuration languages for applications
 
 These languages are used to make configurations for applications or libraries.
 I mainly use them for `Go` and other languages in the same category.
 
+<div align="center">
+
 | Language | Links                                                                        | How often do I use it? |
 | -------- | ---------------------------------------------------------------------------- | ---------------------- |
 | `YAML`   | ❌ *not available*                                                            | 5/5                    |
 | `JSON`   | [`📦`](https://github.com/SchemaStore/schemastore/pulls/EmilyGraceSeville7cf) | 4/5                    |
 
+</div>
+
 #### :hammer_and_wrench: Documenting developed tools
 
 These languages are used to document everything mentioned above.
 
+<div align="center">
+
 | Language   | Links             | How often do I use it? |
 | ---------- | ----------------- | ---------------------- |
 | `Markdown` | ❌ *not available* | 5/5                    |
+
+</div>
 
 ### :memo: Other editors
 
@@ -92,11 +106,15 @@ These languages are used to document everything mentioned above.
 First two tools I utilize on my laptop, the last one is used solely on mobile
 devices as simple but all-in-one program for drawing and animation.
 
+<div align="center">
+
 | Language       | Links                         | How often do I use it? |
 | -------------- | ----------------------------- | ---------------------- |
 | `Inkscape`     | [`💬`][inkscape_community]     | 5/5                    |
 | `Glaxnimate`   | ❌ *not available*             | 5/5                    |
 | `VectorMotion` | `vectormotion.team@gmail.com` | 3/5                    |
+
+</div>
 
 #### :hammer_and_wrench: Creating presentations
 
@@ -104,21 +122,29 @@ Primarily I accomplish my tasks with first two tools depending on their
 complexity. The last one is used on my working machine when first two tools
 are not enough.
 
+<div align="center">
+
 | Language               | Links                       | How often do I use it? |
 | ---------------------- | --------------------------- | ---------------------- |
 | `OnlyOffice`           | [`💬`][onlyoffice_communiy]  | 5/5                    |
 | `Google Slides`        | [`💬`][slides_community]     | 5/5                    |
 | `Microsoft PowerPoint` | [`💬`][powerpoint_community] | 3/5                    |
 
+</div>
+
 #### :hammer_and_wrench: Creating videos
 
 I make videos quite rarely, but when I do I utilize this programs, the first
 one on my laptop and the second one on my mobile devices.
 
+<div align="center">
+
 | Language   | Links                          | How often do I use it? |
 | ---------- | ------------------------------ | ---------------------- |
 | `Kdenlive` | [`💬`][kdenlive_community]       | 3/5                    |
 | `Vita`     | `dl_vita_support@snowcorp.com` | 3/5                    |
+
+</div>
 
 <div align="center">
 
@@ -148,11 +174,9 @@ and if you have any questions head to their [forum][web_editors_community].
 [web_editors]: https://www.photoeditor.com/
 [web_editors_community]: https://tools.zygomatic.com/
 
-<div align="center">
-
-![gopher](./animated-jumping-gopher.gif)
-
-</div>
+<p align="center">
+  <img src="./animated-jumping-gopher.gif" alt="Go programming language logo"/>
+</p>
 
 ## :notebook: Placeholder syntax in my CLI tools
 
