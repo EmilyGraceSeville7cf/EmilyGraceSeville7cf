@@ -118,12 +118,13 @@ devices as simple but all-in-one program for drawing and animation.
 
 #### :hammer_and_wrench: Creating presentations
 
-Primarily I accomplish my tasks with first two tools depending on their
-complexity but I tend to use PowerPoint mainly. The last one is used
+Primarily I utilize PowerPoint program for editing presentations, however
+when it's faster to modify existing Google Slides presentation without porting it
+to aforementioned tool, I use Google Slides. The last one is used
 on my own machine dedicated mainly for programming when the access
 to my girlfriend's laptop is not possible.
 
-> I would love to use OnlyOffice instead of PowerPoint as it's more
+> :thought_balloon: I would love to use OnlyOffice instead of PowerPoint as it's more
 cross-platform than PowerPoint, however on Linux the aforementioned one
 is unstable. And besides the a claimed compatibility with PowerPoint
 presentations made in OnlyOffice may not always be rendered correctly in PowerPoint.
@@ -133,7 +134,7 @@ presentations made in OnlyOffice may not always be rendered correctly in PowerPo
 | Language               | Links                       | How often do I use it? | Where do I use it? | Do I teach it? |
 | ---------------------- | --------------------------- | ---------------------- | --------------- | --------------- |
 | `Microsoft PowerPoint` | [`💬`][powerpoint_community] | 5/5                    | **desktop**, mobile | :heavy_check_mark:            |
-| `Google Slides`        | [`💬`][slides_community]     | 4/5                    | **desktop**, mobile | :heavy_check_mark:            |
+| `Google Slides`        | [`💬`][slides_community]     | 2/5                    | **desktop**, mobile | :heavy_check_mark:            |
 | `OnlyOffice`           | [`💬`][onlyoffice_communiy]  | 1/5                    | **desktop** | :x:             |
 
 </div>
@@ -147,10 +148,10 @@ presentations made in OnlyOffice may not always be rendered correctly in PowerPo
 #### :hammer_and_wrench: Creating videos
 
 I make videos quite rarely, so there is almost nothing I can tell you
-about video editors. But when I do I utilize this programs
-the first one on my laptop and the second one on my mobile devices.
+about video editors. But when I do I utilize Kdenlive on my own laptop and
+Vita on my mobile devices.
 
-> If Kdenlive worked on mobile devices I would rather use it instead of
+> :thought_balloon:  If Kdenlive worked on mobile devices I would rather use it instead of
 mastering several editors (well, learning them, mastering is quiet bold term here).
 
 <div align="center">
