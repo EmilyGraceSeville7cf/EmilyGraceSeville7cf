@@ -126,6 +126,8 @@ with less features like VectorMotion does.
   <img src="https://github.com/user-attachments/assets/1f650aec-4d1c-43c8-9b42-52cda83cc8a2" alt="Office programs icons" height="100px"/>
 </p>
 
+[`👁️ Some of my drawings`](https://github.com/EmilyGraceSeville7cf/drawings)
+
 #### :hammer_and_wrench: Creating presentations
 
 Primarily I utilize PowerPoint program for editing presentations, however
@@ -152,7 +154,7 @@ presentations made in OnlyOffice may not always be rendered correctly in PowerPo
   <img src="https://github.com/user-attachments/assets/9859c270-4dcc-41fc-b7ba-91b4cfc56021" alt="Office programs icons" height="100px"/>
 </p>
 
-[`👁️ Some of my presentations`](https://github.com/EmilyGraceSeville7cf/presentations)`
+[`👁️ Some of my presentations`](https://github.com/EmilyGraceSeville7cf/presentations)
 
 #### :hammer_and_wrench: Creating videos
 
