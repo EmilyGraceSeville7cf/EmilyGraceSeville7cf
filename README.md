@@ -68,8 +68,9 @@ don't contribute to any projects where these languages are the primary ones.
   
 | Language     | Links                                                                                          | How often do I use it? |
 | ------------ | ---------------------------------------------------------------------------------------------- | ---------------------- |
-| `JavaScript` | [`💬`][javascript_community]                                                                    | 2/5                    |
-| `TinyScheme` | [`💬`][gimp_community][`🖊️`](https://github.com/EmilyGraceSeville7cf/tinyscheme-library-scripts) | 1/5                    |
+| `VBA` | [`💬`][powerpoint_community]                                                                    | 5/5                    |
+| `JavaScript` | [`💬`][javascript_community]                                                                    | 3/5                    |
+| `TinyScheme` | [`💬`][gimp_community][`🖊️`](https://github.com/EmilyGraceSeville7cf/tinyscheme-library-scripts) | 2/5                    |
 
 </div>
 
