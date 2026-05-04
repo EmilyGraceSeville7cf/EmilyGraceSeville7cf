@@ -20,5 +20,5 @@ Hi! My name is *Emily*, and I’m passionate about **design** (especially icons)
 > **[My Telegram group](https://t.me/emilanchiki)**[ «**Emilanchiki**»](https://t.me/emilanchiki)  
 > <kbd>design</kbd> <kbd>animation</kbd> <kbd>software</kbd> 
 
-:earth_americas: [Bluesky](https://bsky.app/profile/emilyseville7cf.bsky.social) (English profile) | :earth_americas: [VK](https://vk.com/emilygraceseville7cf) (Russian profile)
+:earth_americas: [Bluesky](https://bsky.app/profile/emilyseville7cf.bsky.social) (English profile) | :earth_americas: [VK](https://vk.com/emilygraceseville7cf) (Russian profile)  
 *On all my profiles, English is the primary language*
